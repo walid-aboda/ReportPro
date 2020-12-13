@@ -40,28 +40,29 @@ namespace Report_Pro.RPT
         {
             groupPanel1.Visible = false;
             RPT.rpt_purchase rpt = new RPT.rpt_purchase();
+            DataTable dt_ =dal.getDataTabl("Get_local_purchase_", FromDate.Value.Date, ToDate.Value.Date, P_Kind,UC_Acc.ID.Text,UC_Branch.ID.Text,UC_PayType.ID.Text,KM_Value,dal.db1);
 
-            DataTable dt_ = dal.getDataTabl_1(@"SELECT A.Ser_no,B.branch_name,A.G_date,p.PAYER_NAME,sum(D.QTY_ADD) As Qty_Add,sum(D.QTY_TAKE) As Qty_Take
-        , ROUND(sum((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price) - sum(((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price * D.total_disc) / 100), 2) AS Value
-        , sum(D.TAX_IN) - sum(D.TAX_OUT) As Vat, A.Inv_no, A.Inv_date, p.COSTMER_K_M_NO, A.Transaction_code, A.Branch_code,
-        A.Payment_Type, T.INV_NAME, A.acc_serial_no, p.payer_l_name, p.adress, C.Payment_name, A.Acc_no, A.CUSTOM_NO, A.Storing_Expire_Date
+        //    DataTable dt_ =dal.getDataTabl_1(@"SELECT A.Ser_no,B.branch_name,A.G_date,p.PAYER_NAME,sum(D.QTY_ADD) As Qty_Add,sum(D.QTY_TAKE) As Qty_Take
+        //, ROUND(sum((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price) - sum(((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price * D.total_disc) / 100), 2) AS Value
+        //, sum(D.TAX_IN) - sum(D.TAX_OUT) As Vat, A.Inv_no, A.Inv_date, p.COSTMER_K_M_NO, A.Transaction_code, A.Branch_code,
+        //A.Payment_Type, T.INV_NAME, A.acc_serial_no, p.payer_l_name, p.adress, C.Payment_name, A.Acc_no, A.CUSTOM_NO, A.Storing_Expire_Date
 
-        FROM    wh_inv_data as A
-        INNER JOIN payer2 As P ON A.Acc_no = P.ACC_NO AND A.Acc_Branch_code = P.BRANCH_code
-        INNER JOIN wh_BRANCHES As B ON A.Branch_code = B.Branch_code
-        INNER JOIN wh_Payment_type As C ON A.Payment_Type = C.Payment_type
-        INNER JOIN wh_material_transaction As D ON A.Ser_no = D.SER_NO
-        AND A.Branch_code = D.Branch_code AND A.Transaction_code = D.TRANSACTION_CODE AND A.Cyear = D.Cyear
-        inner join WH_INV_TYPE As T  on T.INV_CODE = A.Transaction_code
+        //FROM    wh_inv_data as A
+        //INNER JOIN payer2 As P ON A.Acc_no = P.ACC_NO AND A.Acc_Branch_code = P.BRANCH_code
+        //INNER JOIN wh_BRANCHES As B ON A.Branch_code = B.Branch_code
+        //INNER JOIN wh_Payment_type As C ON A.Payment_Type = C.Payment_type
+        //INNER JOIN wh_material_transaction As D ON A.Ser_no = D.SER_NO
+        //AND A.Branch_code = D.Branch_code AND A.Transaction_code = D.TRANSACTION_CODE AND A.Cyear = D.Cyear
+        //inner join WH_INV_TYPE As T  on T.INV_CODE = A.Transaction_code
         
-        WHERE(A.Transaction_code like  CASE WHEN '"+ P_Kind, UC_Acc.ID.Text+"' = 2 THEN 'xpe%' else  'xp%'  END)" +
-        " and A.Transaction_code <> CASE WHEN '"+ P_Kind, UC_Acc.ID.Text+"' = 1 THEN 'xpe' else  ''  END" +
-        " and CAST(A.G_date AS DATE) '" + FromDate.Value.ToString("yyyy/MM/dd") + "' AND '" + ToDate.Value.ToString("yyyy/MM/dd") + "' and a.Acc_no like '"+UC_Acc.ID.Text
-        + "%'and a.Branch_code like '"+UC_Branch.ID.Text+ "%' and a.Payment_Type like '"+UC_PayType.ID.Text
-        +"%' group by    A.Ser_no, A.Transaction_code, A.Branch_code, A.G_date, A.Payment_Type, A.Inv_no, A.Inv_date, A.acc_serial_no, A.NetAmount," +
-        "P.PAYER_NAME, B.branch_name, C.Payment_name, A.Acc_no, T.INV_NAME, A.CUSTOM_NO, A.Storing_Expire_Date, p.payer_l_name, p.adress, p.COSTMER_K_M_NO order by a.Branch_code, A.Ser_no");
+        //WHERE A.Transaction_code like  CASE WHEN '" + P_Kind + "' = 2 THEN 'xpe%' else  'xp%'  END " +
+        //" and A.Transaction_code <> CASE WHEN '" + P_Kind + "' = 1 THEN 'xpe' else  ''  END" +
+        //" and CAST(A.G_date AS DATE) between '" + FromDate.Value.ToString("yyyy/MM/dd") + "' AND '" + ToDate.Value.ToString("yyyy/MM/dd") + "' and a.Acc_no like '" + UC_Acc.ID.Text
+        //+ "%'and a.Branch_code like '" + UC_Branch.ID.Text + "%' and a.Payment_Type like '" + UC_PayType.ID.Text
+        //+ "%' group by    A.Ser_no, A.Transaction_code, A.Branch_code, A.G_date, A.Payment_Type, A.Inv_no, A.Inv_date, A.acc_serial_no, A.NetAmount," +
+        //" P.PAYER_NAME, B.branch_name, C.Payment_name, A.Acc_no, T.INV_NAME, A.CUSTOM_NO, A.Storing_Expire_Date, p.payer_l_name, p.adress, p.COSTMER_K_M_NO order by a.Branch_code, A.Ser_no");
 
-            rpt.SetDataSource(dal.getDataTabl("Get_local_purchase_", FromDate.Value.Date, ToDate.Value.Date, P_Kind,UC_Acc.ID.Text,UC_Branch.ID.Text,UC_PayType.ID.Text,KM_Value,dal.db1));
+            rpt.SetDataSource(dt_);
             crystalReportViewer1.ReportSource = rpt;
             rpt.DataDefinition.FormulaFields["From_date"].Text = "'" + FromDate.Value.ToString("yyyy/MM/dd") + "'";
             rpt.DataDefinition.FormulaFields["To_Date"].Text = "'" + ToDate.Value.ToString("yyyy/MM/dd") + "'";
