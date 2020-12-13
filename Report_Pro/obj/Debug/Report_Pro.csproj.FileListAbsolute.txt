@@ -1,0 +1,1934 @@
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Report_Pro.exe.config
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Interop.WIA.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Report_Pro.exe
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Report_Pro.pdb
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\ar\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\en\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\am-ET\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\sq-AL\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\ar-EG\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\en-US\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\ar-DZ\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\EZTwainLibrary.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\HijriDate.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\IrisSkin2.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\office.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\office.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Interop.WIA.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Form1.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.CashCustomer.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.delivryRow.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.jorDebit.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.JorHead.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Jor_Row.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.myText.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UCText.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Area.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Asset.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_CashCard.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_currency.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Date.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_FinalAcc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Purch.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Sales.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_OtherNu.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_QutType.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_TransactionAssets.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Update_Acc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.background.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Form1.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAcc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAddDelevryTearms.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAddPaymentTearms.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAddSalesDelevry.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetAdditions.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetes.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetesGroup.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmDelivryNote.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmDepreciation.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmEntryJornal.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmLocations.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmProducts.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmRate.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmSearchAcc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcInv.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmSerch_PE.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmStores.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_cash_transaction.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_check_item_Price.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Config.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Preview_Jor.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_PurchaseOrder.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_SearchAcc.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Search_Item.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_sendEmail.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_send_sms.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.frm_serchbanks.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_serch_cost.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_UpdateAccData.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_custom_no.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_invoiceData.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_update_trans_invoice.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_uploadImage.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.invoice_frm.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.OpenedForms.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.order_list_frm.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Prepaid_expenses.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.scanFrm.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Update_take_to_production.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Properties.Resources.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Form3.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcReport.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Form2.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frmAgeReport.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BalanceSheet.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BS_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CashCustomer_statment.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_PQ.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Confirmation.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CostCenter_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Customers_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_customer_Facility.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Export_sales.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_from_toDate.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Count.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Item_Transaction.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_local_sales.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Monthly_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_PE_rpt.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_project_materails.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_return_rep.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Galvanaize.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_MonthelySales.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_preform.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_salary.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_TB.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Total_Jor.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_tot_customers.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_transRepot.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_trns_purch.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.am-ET.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.sq-AL.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.ar-EG.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.en-US.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.en-US.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar-DZ.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en-US.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en.resources
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.csproj.GenerateResource.Cache
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\ar\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\en\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\am-ET\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\sq-AL\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\ar-EG\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.exe
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.pdb
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\stdole.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\ADODB.dll
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.Shared.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Report_Pro_2017\Backup\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+D:\New folder (2)\Report_Pro\bin\Debug\Report_Pro.exe.config
+D:\New folder (2)\Report_Pro\bin\Debug\Report_Pro.exe
+D:\New folder (2)\Report_Pro\bin\Debug\Report_Pro.pdb
+D:\New folder (2)\Report_Pro\bin\Debug\ar\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\en\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\am-ET\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\sq-AL\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\ar-EG\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\en-US\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\ar-DZ\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\New folder (2)\Report_Pro\bin\Debug\DevComponents.DotNetBar2.dll
+D:\New folder (2)\Report_Pro\bin\Debug\IrisSkin2.dll
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\New folder (2)\Report_Pro\bin\Debug\FlashControlV71.dll
+D:\New folder (2)\Report_Pro\bin\Debug\office.dll
+D:\New folder (2)\Report_Pro\bin\Debug\ADODB.dll
+D:\New folder (2)\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\New folder (2)\Report_Pro\bin\Debug\stdole.dll
+D:\New folder (2)\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\New folder (2)\Report_Pro\bin\Debug\office.xml
+D:\New folder (2)\Report_Pro\bin\Debug\Interop.WIA.dll
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
+D:\New folder (2)\Report_Pro\obj\Debug\Interop.WIA.dll
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Form1.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.CashCustomer.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.delivryRow.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.jorDebit.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.JorHead.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Jor_Row.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.myText.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UCText.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Area.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Asset.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_CashCard.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_currency.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Date.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_FinalAcc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Purch.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Sales.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_OtherNu.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_QutType.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_TransactionAssets.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Update_Acc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.background.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Form1.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAcc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAddDelevryTearms.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAddPaymentTearms.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAddSalesDelevry.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetAdditions.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetes.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetesGroup.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmDelivryNote.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmDepreciation.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmEntryJornal.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmLocations.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmProducts.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmRate.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmSearchAcc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcInv.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmSerch_PE.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmStores.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_cash_transaction.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_check_item_Price.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Config.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Preview_Jor.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_PurchaseOrder.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_SearchAcc.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Search_Item.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_sendEmail.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_send_sms.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.frm_serchbanks.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_serch_cost.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_UpdateAccData.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_custom_no.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_invoiceData.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_update_trans_invoice.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_uploadImage.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.invoice_frm.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.OpenedForms.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.order_list_frm.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Prepaid_expenses.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.scanFrm.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Update_take_to_production.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Properties.Resources.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Form3.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Form2.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frmAgeReport.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BalanceSheet.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BS_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CashCustomer_statment.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_PQ.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Confirmation.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CostCenter_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Customers_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_customer_Facility.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Export_sales.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_from_toDate.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Count.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Item_Transaction.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_local_sales.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Monthly_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_PE_rpt.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_project_materails.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_return_rep.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Galvanaize.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_MonthelySales.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_preform.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_salary.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_TB.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Total_Jor.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_tot_customers.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_transRepot.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_trns_purch.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.am-ET.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.sq-AL.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.ar-EG.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.en-US.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.en-US.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar-DZ.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en-US.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.csproj.GenerateResource.cache
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Report_Pro\obj\Debug\ar\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\en\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\am-ET\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\sq-AL\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\ar-EG\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.exe
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.pdb
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\New folder (2)\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.ar.resources
+D:\New folder (2)\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.sq-AL.resources
+C:\Report_Pro\Report_Pro\bin\Debug\Report_Pro.exe.config
+C:\Report_Pro\Report_Pro\bin\Debug\Report_Pro.exe
+C:\Report_Pro\Report_Pro\bin\Debug\Report_Pro.pdb
+C:\Report_Pro\Report_Pro\bin\Debug\ar\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\en\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\am-ET\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\sq-AL\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ar-EG\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\en-US\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ar-DZ\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Report_Pro\Report_Pro\bin\Debug\FlashControlV71.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Report_Pro\Report_Pro\bin\Debug\office.dll
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ADODB.dll
+C:\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Report_Pro\Report_Pro\bin\Debug\stdole.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\office.xml
+C:\Report_Pro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Report_Pro\Report_Pro\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Report_Pro\Report_Pro\bin\Debug\Interop.WIA.dll
+C:\Report_Pro\Report_Pro\obj\Debug\Interop.WIA.dll
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Form1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.frm_Master.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.CashCustomer.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.delivryRow.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.jorDebit.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.JorHead.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Jor_Row.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.myText.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UCText.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Area.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Asset.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_CashCard.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_currency.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Date.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_FinalAcc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Purch.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Sales.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_OtherNu.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_QutType.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_TransactionAssets.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Update_Acc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.background.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Form1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAcc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddDelevryTearms.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddPaymentTearms.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddSalesDelevry.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetAdditions.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetes.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetesGroup.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmDelivryNote.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmDepreciation.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmEntryJornal.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLocations.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmProducts.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmRate.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmSearchAcc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcInv.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmSerch_PE.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmStores.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_cash_transaction.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_check_item_Price.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Config.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Invoice.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PaySanad.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Preview_Jor.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PurchaseOrder.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_SearchAcc.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Search_Item.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_sendEmail.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_send_sms.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.frm_serchbanks.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_serch_cost.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_UpdateAccData.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_custom_no.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_invoiceData.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_update_trans_invoice.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_uploadImage.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.invoice_frm.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.OpenedForms.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.order_list_frm.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Prepaid_expenses.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.scanFrm.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Update_take_to_production.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Properties.Resources.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.f1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form2.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAgeReport.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BalanceSheet.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BS_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CashCustomer_statment.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_PQ.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Confirmation.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CostCenter_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Customers_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_customer_Facility.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Export_sales.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_from_toDate.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Count.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Item_Transaction.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_local_sales.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Monthly_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_PE_rpt.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_project_materails.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_return_rep.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Galvanaize.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_MonthelySales.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_preform.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_salary.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_TB.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Total_Jor.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_tot_customers.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_transRepot.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_trns_purch.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.XtraForm1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.XtraReport1.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.am-ET.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.sq-AL.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.ar-EG.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.en-US.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.en-US.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.sq-AL.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar-DZ.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en-US.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en.resources
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.GenerateResource.cache
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.exe.licenses
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.CoreCompileInputs.cache
+C:\Report_Pro\Report_Pro\obj\Debug\ar\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\en\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\am-ET\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\sq-AL\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\ar-EG\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.exe
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.pdb
+C:\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Report_Pro.exe.config
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Report_Pro.exe
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Report_Pro.pdb
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ar\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\en\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\am-ET\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\sq-AL\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ar-EG\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\en-US\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ar-DZ\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\FlashControlV71.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ADODB.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\stdole.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Data.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\Interop.WIA.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Interop.WIA.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Form1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.frm_Master.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.CashCustomer.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.delivryRow.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.jorDebit.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.JorHead.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Jor_Row.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.myText.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UCText.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Area.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Asset.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_CashCard.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_currency.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Date.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_FinalAcc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Purch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Sales.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_OtherNu.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_QutType.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_TransactionAssets.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Update_Acc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.background.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Form1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAcc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddDelevryTearms.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddPaymentTearms.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAddSalesDelevry.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetAdditions.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetes.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetesGroup.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmDelivryNote.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmDepreciation.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmEntryJornal.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLocations.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmProducts.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmRate.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmSearchAcc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcInv.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmSerch_PE.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmStores.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_cash_transaction.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_check_item_Price.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Config.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PaySanad.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Preview_Jor.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PurchaseOrder.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_SearchAcc.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Search_Item.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_sendEmail.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_send_sms.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.frm_serchbanks.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_serch_cost.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_UpdateAccData.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_custom_no.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_invoiceData.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_update_trans_invoice.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_uploadImage.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.invoice_frm.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.OpenedForms.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.order_list_frm.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Prepaid_expenses.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.scanFrm.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Update_take_to_production.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Properties.Resources.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_ItemBalanceByBranches.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_PExpenssBalance.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_InventoryList.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_Inventory_M_Br.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Report.rpt_TotalStockByCategory.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form2.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAgeReport.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BalanceSheet.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BS_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CashCustomer_statment.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_PQ.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Confirmation.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CostCenter_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Customers_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_customer_Facility.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Export_sales.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_from_toDate.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Count.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Item_Transaction.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_local_sales.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Monthly_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_PE_rpt.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_project_materails.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_return_rep.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Galvanaize.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_MonthelySales.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_preform.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_salary.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_TB.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Total_Jor.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_tot_customers.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_transRepot.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_trns_purch.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.XtraForm1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Report.XtraReport1.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventory.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.XtraForm2.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.am-ET.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.sq-AL.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.ar-EG.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.en-US.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.en-US.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_ItemBalanceByBranches.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.sq-AL.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_InventoryList.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_Inventory_M_Br.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventory.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.Report.rpt_TotalStockByCategory.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar-DZ.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en-US.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.GenerateResource.cache
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.exe.licenses
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.CoreCompileInputs.cache
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\ar\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\en\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\am-ET\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\sq-AL\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\ar-EG\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.exe
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.pdb
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Mai.resources
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\my_program - 11-11-2020\Report_Pro\Report_Pro\obj\Debug\Report_Pro.PL.XtraUserControl1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Interop.WIA.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Form1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.frm_Master.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.CashCustomer.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.delivryRow.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.jorDebit.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.JorHead.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Jor_Row.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.myText.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UCText.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Area.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Asset.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_CashCard.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_currency.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Date.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_FinalAcc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Purch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_KM_Sales.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_OtherNu.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_QutType.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_TransactionAssets.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Update_Acc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.background.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Form1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAcc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAddDelevryTearms.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAddPaymentTearms.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAddSalesDelevry.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetAdditions.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetes.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmAssetesGroup.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmDelivryNote.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmDepreciation.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmEntryJornal.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLocations.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmProducts.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmRate.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmSearchAcc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcInv.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmSerch_PE.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmStores.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_cash_transaction.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_check_item_Price.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Config.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Main.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_PaySanad.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Preview_Jor.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_PurchaseOrder.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_SearchAcc.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Search_Item.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_sendEmail.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_send_sms.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.frm_serchbanks.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_serch_cost.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_UpdateAccData.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_custom_no.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Update_invoiceData.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_update_trans_invoice.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_uploadImage.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.invoice_frm.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.OpenedForms.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.order_list_frm.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Prepaid_expenses.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.scanFrm.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Update_take_to_production.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.XtraUserControl1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Properties.Resources.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_ItemBalanceByBranches.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_PExpenssBalance.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_InventoryList.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_Inventory_M_Br.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Report.rpt_TotalStockByCategory.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.Form2.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frmAgeReport.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BalanceSheet.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_BS_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CashCustomer_statment.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_PQ.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Compare_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Confirmation.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_CostCenter_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Customers_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_customer_Facility.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Export_sales.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_from_toDate.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Inventory_Count.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Item_Transaction.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_local_sales.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Monthly_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_PE_rpt.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_project_materails.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_return_rep.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Galvanaize.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_MonthelySales.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_preform.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_salary.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_TB.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Total_Jor.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_tot_customers.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_transRepot.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_trns_purch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.XtraForm1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Report.XtraReport1.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventory.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.XtraForm2.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc_Group.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.am-ET.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_AccBranch.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Branch.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_BS_Acc.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Catogry.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_cost.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Customer.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Group.sq-AL.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Items.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_PayType.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.Uc_Supplier.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Transaction.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmJornal.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmLcInv.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLcs.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLoan.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmLoanSearch.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frmQuotation.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.ar-EG.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.FrmSerchLcs.en-US.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_BS_elements.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_PE_Jor.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_Purch_Qutation.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Matrails.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_R_Qutaion.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.frm_search_items.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.list_H_price.en-US.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.UpdateAccData.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_ItemBalanceByBranches.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.sq-AL.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_inventory.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_InventoryList.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_Inventory_M_Br.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventory.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Report.rpt_TotalStockByCategory.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_LcInvRep.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rep_Fees.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.Form1.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frmPurchase_rpt.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Daliy_rpt.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_Print_invoice.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Productin.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Purchases.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_rpt_Sales_by_Br.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Many_Rpt.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.frm_statment_Rpt.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar-DZ.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en-US.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.RPT.login_frm.en.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.csproj.GenerateResource.cache
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.exe.licenses
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.csproj.CoreCompileInputs.cache
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.exe
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.pdb
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Report_Pro.exe.config
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Report_Pro.exe
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Report_Pro.pdb
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ar\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\en\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\am-ET\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\sq-AL\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ar-EG\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\en-US\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ar-DZ\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Data.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\FlashControlV71.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ADODB.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\stdole.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Data.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Interop.WIA.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\ar\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\en\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\am-ET\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\sq-AL\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\ar-EG\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalTransprtRevenu.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Banks.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Master.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\office.dll
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\office.xml
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Banks.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Master.ar.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_BalanceByBranch.resources
+C:\my_program - 11-11-2020\New Report\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_BalanceByBranch.ar.resources
