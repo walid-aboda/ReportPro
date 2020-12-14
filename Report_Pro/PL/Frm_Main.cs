@@ -663,7 +663,7 @@ namespace Report_Pro.PL
 
         private void M14_Click(object sender, EventArgs e)
         {
-            openForm(new Forms.frm_Banks(), FormWindowState.Normal, 0);
+            openForm(new PL.Frm_Banks(), FormWindowState.Normal, 0);
         }
 
         private void M39_Click(object sender, EventArgs e)

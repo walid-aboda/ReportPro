@@ -52,30 +52,146 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.BonusSkins.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.CodeParser.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Data.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.DataAccess.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.PivotGrid.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.RichEdit.v19.1.Export, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraReports.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraReports.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.BonusSkins.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.BonusSkins.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Charts.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.CodeParser.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Data.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Diagram.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Images.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v19.1.Export, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v19.1.Wizard, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraDiagram.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll</HintPath>
+    </Reference>
     <Reference Include="EZTwainLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=47606df01f5c9af9, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\OneDrive\Report_Pro\Report_Pro\bin\Debug\EZTwainLibrary.dll</HintPath>
@@ -119,18 +235,6 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\frm_Banks.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frm_Banks.Designer.cs">
-      <DependentUpon>frm_Banks.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\frm_Master.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frm_Master.designer.cs">
-      <DependentUpon>frm_Master.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_1.cs">
       <SubType>Form</SubType>
@@ -552,12 +656,6 @@
     <Compile Include="PL\frm_inputText.designer.cs">
       <DependentUpon>frm_inputText.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\frm_Main.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frm_Main.Designer.cs">
-      <DependentUpon>frm_Main.cs</DependentUpon>
-    </Compile>
     <Compile Include="PL\Frm_Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -764,24 +862,9 @@
     <Compile Include="Reports\rpt_TotalTransprtRevenu.Designer.cs">
       <DependentUpon>rpt_TotalTransprtRevenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="XtraForm2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="XtraForm2.Designer.cs">
-      <DependentUpon>XtraForm2.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
       <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frm_Banks.resx">
-      <DependentUpon>frm_Banks.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frm_Master.ar.resx">
-      <DependentUpon>frm_Master.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frm_Master.resx">
-      <DependentUpon>frm_Master.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_1.resx">
       <DependentUpon>Form_1.cs</DependentUpon>
@@ -1192,9 +1275,6 @@
       <DependentUpon>frm_inputText.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frm_Main.resx">
-      <DependentUpon>frm_Main.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="PL\Frm_Main.ar.resx">
       <DependentUpon>Frm_Main.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -1400,12 +1480,6 @@
       <DependentUpon>rpt_TotalTransprtRevenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Resources\ar.resx">
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\en.resx">
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Messages.ar.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="RPT\AgeReport.rpt">
@@ -2132,17 +2206,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="RPT\XtraForm1.resx">
-      <DependentUpon>XtraForm1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Reports\XtraReport1.resx">
       <DependentUpon>XtraReport1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_TotalInventory.resx">
       <DependentUpon>rpt_TotalInventory.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="XtraForm2.resx">
-      <DependentUpon>XtraForm2.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config">
       <SubType>Designer</SubType>
@@ -3128,12 +3196,6 @@
       <DependentUpon>trans_by_inv.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="RPT\XtraForm1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RPT\XtraForm1.Designer.cs">
-      <DependentUpon>XtraForm1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Reports\XtraReport1.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -3155,174 +3217,7 @@
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Add_Icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gtk-refresh.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="report_SsV_icon.ico" />
-    <Content Include="Resources\22222.png" />
-    <Content Include="Resources\222221.png" />
-    <None Include="Resources\222222.png" />
-    <None Include="Resources\2222211.png" />
-    <Content Include="Resources\4977.jpg" />
-    <None Include="Resources\49771.jpg" />
-    <None Include="Resources\Add_Icon1.png" />
-    <Content Include="Resources\Arrow.png" />
-    <None Include="Resources\Arrow1.png" />
-    <Content Include="Resources\Attachment-icon1.png" />
-    <None Include="Resources\Attachment-icon11.png" />
-    <Content Include="Resources\CalcImg.jpg" />
-    <None Include="Resources\CalcImg1.jpg" />
-    <Content Include="Resources\cancel.jpg" />
-    <None Include="Resources\cancel1.jpg" />
-    <None Include="Resources\choose.png" />
-    <Content Include="Resources\colors.png" />
-    <Content Include="Resources\colors1.png" />
-    <Content Include="Resources\colors11.png" />
-    <None Include="Resources\colors111.png" />
-    <Content Include="Resources\colors12.png" />
-    <None Include="Resources\colors13.png" />
-    <None Include="Resources\colors121.png" />
-    <Content Include="Resources\colors2.png" />
-    <None Include="Resources\colors3.png" />
-    <None Include="Resources\colors21.png" />
-    <Content Include="Resources\Cross-icon.png" />
-    <Content Include="Resources\Cross-icon1.png" />
-    <None Include="Resources\Cross-icon2.png" />
-    <None Include="Resources\Cross-icon11.png" />
-    <Content Include="Resources\deleteAttach_icon.png" />
-    <None Include="Resources\deleteAttach_icon1.png" />
-    <Content Include="Resources\Exit-icon.png" />
-    <None Include="Resources\Exit-icon1.png" />
-    <Content Include="Resources\file.png" />
-    <None Include="Resources\file1.png" />
-    <None Include="Resources\find.svg" />
-    <Content Include="Resources\fromScanner_Icon.png" />
-    <None Include="Resources\fromScanner_Icon1.png" />
-    <None Include="Resources\gtk-refresh1.png" />
-    <Content Include="Resources\iconfinder_attachment_3671672.png" />
-    <None Include="Resources\iconfinder_attachment_36716721.png" />
-    <Content Include="Resources\imagesW2INHVQG.jpg" />
-    <None Include="Resources\imagesW2INHVQG1.jpg" />
-    <Content Include="Resources\IMG_0471_.JPG" />
-    <Content Include="Resources\inventory.png" />
-    <Content Include="Resources\inventory1.png" />
-    <None Include="Resources\inventory2.png" />
-    <None Include="Resources\inventory11.png" />
-    <Content Include="Resources\item_price.png" />
-    <Content Include="Resources\item_price1.png" />
-    <None Include="Resources\item_price2.png" />
-    <None Include="Resources\item_price11.png" />
-    <Content Include="Resources\lcs.jpg" />
-    <None Include="Resources\lcs1.jpg" />
-    <Content Include="Resources\login.jpg" />
-    <Content Include="Resources\login.png" />
-    <None Include="Resources\login1.jpg" />
-    <Content Include="Resources\login1.png" />
-    <Content Include="Resources\logout.png" />
-    <None Include="Resources\logout1.png" />
-    <Content Include="Resources\logout_icon.png" />
-    <Content Include="Resources\Mail-icon.png" />
-    <None Include="Resources\Mail-icon1.png" />
-    <Content Include="Resources\Maintinance.png" />
-    <Content Include="Resources\Maintinance1.png" />
-    <None Include="Resources\Maintinance11.png" />
-    <Content Include="Resources\new-1.png" />
-    <None Include="Resources\new-11.png" />
-    <Content Include="Resources\Ok-icon.png" />
-    <Content Include="Resources\Ok-icon1.png" />
-    <Content Include="Resources\Ok-icon11.png" />
-    <None Include="Resources\Ok-icon2.png" />
-    <None Include="Resources\Ok-icon12.png" />
-    <None Include="Resources\Ok-icon111.png" />
-    <Content Include="Resources\ok.png" />
-    <Content Include="Resources\ok1.png" />
-    <None Include="Resources\ok2.png" />
-    <None Include="Resources\ok11.png" />
-    <Content Include="Resources\okicon.png" />
-    <None Include="Resources\okicon1.png" />
-    <Content Include="Resources\OpenedForms.png" />
-    <Content Include="Resources\OpenedForms1.png" />
-    <None Include="Resources\OpenedForms11.png" />
-    <Content Include="Resources\OpenedForms2.png" />
-    <None Include="Resources\OpenedForms3.png" />
-    <None Include="Resources\OpenedForms21.png" />
-    <Content Include="Resources\plus_add_green.png" />
-    <None Include="Resources\plus_add_green1.png" />
-    <Content Include="Resources\printer-icon.png" />
-    <None Include="Resources\printer-icon1.png" />
-    <Content Include="Resources\Products.png" />
-    <Content Include="Resources\Products1.png" />
-    <None Include="Resources\Products2.png" />
-    <None Include="Resources\Products11.png" />
-    <Content Include="Resources\Projects.png" />
-    <None Include="Resources\Projects1.png" />
-    <Content Include="Resources\purchase.png" />
-    <Content Include="Resources\purchase1.png" />
-    <None Include="Resources\purchase11.png" />
-    <Content Include="Resources\purchase2.png" />
-    <None Include="Resources\purchase3.png" />
-    <None Include="Resources\purchase21.png" />
-    <Content Include="Resources\Reports.png" />
-    <Content Include="Resources\Reports1.png" />
-    <None Include="Resources\Reports2.png" />
-    <None Include="Resources\Reports11.png" />
-    <None Include="Resources\Reports21.png" />
-    <Content Include="Resources\Revenue.png" />
-    <Content Include="Resources\Revenue1.png" />
-    <None Include="Resources\Revenue2.png" />
-    <None Include="Resources\Revenue11.png" />
-    <Content Include="Resources\Sales.png" />
-    <Content Include="Resources\Sales1.png" />
-    <None Include="Resources\Sales11.png" />
-    <Content Include="Resources\Sales2.png" />
-    <None Include="Resources\Sales3.png" />
-    <None Include="Resources\Sales21.png" />
-    <Content Include="Resources\save_Icon.png" />
-    <None Include="Resources\save_Icon1.png" />
-    <Content Include="Resources\scanner_icon.png" />
-    <None Include="Resources\scanner_icon1.png" />
-    <Content Include="Resources\Search-icon1.png" />
-    <None Include="Resources\Search-icon11.png" />
-    <Content Include="Resources\search.png" />
-    <Content Include="Resources\search1.png" />
-    <None Include="Resources\search2.png" />
-    <None Include="Resources\search11.png" />
-    <Content Include="Resources\search_16.png" />
-    <None Include="Resources\search_161.png" />
-    <Content Include="Resources\search_Icon.png" />
-    <None Include="Resources\search_Icon1.png" />
-    <Content Include="Resources\Setting.png" />
-    <Content Include="Resources\Setting1.png" />
-    <None Include="Resources\Setting11.png" />
-    <Content Include="Resources\Setting2.png" />
-    <None Include="Resources\Setting3.png" />
-    <None Include="Resources\Setting21.png" />
-    <Content Include="Resources\statement.png" />
-    <Content Include="Resources\statement1.png" />
-    <None Include="Resources\statement2.png" />
-    <None Include="Resources\statement11.png" />
-    <Content Include="Resources\TotalRep.png" />
-    <None Include="Resources\TotalRep1.png" />
-    <Content Include="Resources\Transport.png" />
-    <Content Include="Resources\Transport1.png" />
-    <None Include="Resources\Transport11.png" />
-    <Content Include="Resources\Transport2.png" />
-    <None Include="Resources\Transport3.png" />
-    <None Include="Resources\Transport21.png" />
-    <Content Include="Resources\trial-balance.png" />
-    <Content Include="Resources\trial-balance1.png" />
-    <None Include="Resources\trial-balance11.png" />
-    <Content Include="Resources\trial-balance2.png" />
-    <None Include="Resources\trial-balance3.png" />
-    <None Include="Resources\trial-balance21.png" />
-    <Content Include="Resources\untitled.png" />
-    <None Include="Resources\untitled1.png" />
-    <None Include="Resources\update.png" />
-    <Content Include="Resources\update1.png" />
-    <None Include="Resources\update11.png" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="WIA">
@@ -3337,7 +3232,9 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Forms\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

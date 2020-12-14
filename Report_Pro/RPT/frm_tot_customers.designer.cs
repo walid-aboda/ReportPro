@@ -39,7 +39,7 @@
             this.dTP2 = new System.Windows.Forms.DateTimePicker();
             this.dTP1 = new System.Windows.Forms.DateTimePicker();
             this.crystalReportViewer1 = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
-            this.documentViewer1 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
+            //this.documentViewer1 = new DevExpress.XtraPrinting.Preview.DocumentViewer();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -177,20 +177,20 @@
             this.crystalReportViewer1.ViewTimeSelectionFormula = "";
             // 
             // documentViewer1
-            // 
-            this.documentViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.documentViewer1.IsMetric = true;
-            this.documentViewer1.Location = new System.Drawing.Point(0, 96);
-            this.documentViewer1.Name = "documentViewer1";
-            this.documentViewer1.Size = new System.Drawing.Size(1098, 416);
-            this.documentViewer1.TabIndex = 5;
-            // 
+            //// 
+            //this.documentViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            //this.documentViewer1.IsMetric = true;
+            //this.documentViewer1.Location = new System.Drawing.Point(0, 96);
+            //this.documentViewer1.Name = "documentViewer1";
+            //this.documentViewer1.Size = new System.Drawing.Size(1098, 416);
+            //this.documentViewer1.TabIndex = 5;
+            //// 
             // frm_tot_customers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1098, 512);
-            this.Controls.Add(this.documentViewer1);
+           // this.Controls.Add(this.documentViewer1);
             this.Controls.Add(this.crystalReportViewer1);
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -218,6 +218,6 @@
         private System.Windows.Forms.Button btn_Search;
         private System.Windows.Forms.TextBox txt_AccId;
         private System.Windows.Forms.TextBox txt_AccName;
-        private DevExpress.XtraPrinting.Preview.DocumentViewer documentViewer1;
+        //private DevExpress.XtraPrinting.Preview.DocumentViewer documentViewer1;
     }
 }

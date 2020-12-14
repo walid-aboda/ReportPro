@@ -44,8 +44,13 @@
             this.btn_Cancl = new System.Windows.Forms.Button();
             this.txtSerNo = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.labelX6 = new DevComponents.DotNetBar.LabelX();
+            this.previous_ = new System.Windows.Forms.PictureBox();
+            this.first_ = new System.Windows.Forms.PictureBox();
+            this.next_ = new System.Windows.Forms.PictureBox();
+            this.last_ = new System.Windows.Forms.PictureBox();
             this.ribbonBar1 = new DevComponents.DotNetBar.RibbonBar();
             this.BNew = new DevComponents.DotNetBar.ButtonItem();
+            this.BSave = new DevComponents.DotNetBar.ButtonItem();
             this.BEdit = new DevComponents.DotNetBar.ButtonItem();
             this.BSearch = new DevComponents.DotNetBar.ButtonItem();
             this.BtnPrint = new DevComponents.DotNetBar.ButtonItem();
@@ -53,6 +58,7 @@
             this.BExit = new DevComponents.DotNetBar.ButtonItem();
             this.BtnPrint_all = new DevComponents.DotNetBar.ButtonItem();
             this.groupPanel3 = new DevComponents.DotNetBar.Controls.GroupPanel();
+            this.btnEnter = new System.Windows.Forms.Button();
             this.txt_accName = new DevComponents.DotNetBar.LabelX();
             this.txt_Desc = new System.Windows.Forms.TextBox();
             this.labelX31 = new DevComponents.DotNetBar.LabelX();
@@ -64,40 +70,32 @@
             this.labelX28 = new DevComponents.DotNetBar.LabelX();
             this.labelX17 = new DevComponents.DotNetBar.LabelX();
             this.groupPanel4 = new DevComponents.DotNetBar.Controls.GroupPanel();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.labelX8 = new DevComponents.DotNetBar.LabelX();
             this.txtdiff = new DevComponents.Editors.DoubleInput();
+            this.BtnDelRow = new System.Windows.Forms.Button();
             this.totalCredit = new DevComponents.Editors.DoubleInput();
             this.totalDebit = new DevComponents.Editors.DoubleInput();
             this.dGV_Item = new System.Windows.Forms.DataGridView();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.previous_ = new System.Windows.Forms.PictureBox();
-            this.first_ = new System.Windows.Forms.PictureBox();
-            this.next_ = new System.Windows.Forms.PictureBox();
-            this.last_ = new System.Windows.Forms.PictureBox();
-            this.BSave = new DevComponents.DotNetBar.ButtonItem();
-            this.btnEnter = new System.Windows.Forms.Button();
-            this.BtnDelRow = new System.Windows.Forms.Button();
             this.groupPanel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
-            this.groupPanel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.txt_Cr)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txt_Db)).BeginInit();
-            this.groupPanel4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.txtdiff)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.totalCredit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.totalDebit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dGV_Item)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.previous_)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.first_)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.next_)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.last_)).BeginInit();
+            this.groupPanel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_Cr)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_Db)).BeginInit();
+            this.groupPanel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtdiff)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.totalCredit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.totalDebit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dGV_Item)).BeginInit();
             this.SuspendLayout();
             // 
             // groupPanel1
             // 
-            this.groupPanel1.AccessibleDescription = null;
-            this.groupPanel1.AccessibleName = null;
             resources.ApplyResources(this.groupPanel1, "groupPanel1");
             this.groupPanel1.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
@@ -111,7 +109,6 @@
             this.groupPanel1.Controls.Add(this.first_);
             this.groupPanel1.Controls.Add(this.next_);
             this.groupPanel1.Controls.Add(this.last_);
-            this.groupPanel1.Font = null;
             this.groupPanel1.Name = "groupPanel1";
             // 
             // 
@@ -137,8 +134,6 @@
             // 
             // label1
             // 
-            this.label1.AccessibleDescription = null;
-            this.label1.AccessibleName = null;
             resources.ApplyResources(this.label1, "label1");
             this.label1.BackColor = System.Drawing.SystemColors.Window;
             this.label1.Name = "label1";
@@ -146,129 +141,126 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.AccessibleDescription = null;
-            this.dateTimePicker1.AccessibleName = null;
             resources.ApplyResources(this.dateTimePicker1, "dateTimePicker1");
-            this.dateTimePicker1.BackgroundImage = null;
-            this.dateTimePicker1.CalendarFont = null;
-            this.dateTimePicker1.CustomFormat = null;
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
             // labelX5
             // 
-            this.labelX5.AccessibleDescription = null;
-            this.labelX5.AccessibleName = null;
             resources.ApplyResources(this.labelX5, "labelX5");
             this.labelX5.BackColor = System.Drawing.Color.Transparent;
-            this.labelX5.BackgroundImage = null;
-            this.labelX5.CommandParameter = null;
             this.labelX5.Name = "labelX5";
             this.labelX5.Click += new System.EventHandler(this.labelX5_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.AccessibleDescription = null;
-            this.groupBox1.AccessibleName = null;
             resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.BackColor = System.Drawing.Color.Yellow;
-            this.groupBox1.BackgroundImage = null;
             this.groupBox1.Controls.Add(this.txtsearch);
             this.groupBox1.Controls.Add(this.labelX15);
             this.groupBox1.Controls.Add(this.btn_Srearch);
             this.groupBox1.Controls.Add(this.btn_Cancl);
-            this.groupBox1.Font = null;
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
             // txtsearch
             // 
-            this.txtsearch.AccessibleDescription = null;
-            this.txtsearch.AccessibleName = null;
             resources.ApplyResources(this.txtsearch, "txtsearch");
-            this.txtsearch.BackgroundImage = null;
             // 
             // 
             // 
             this.txtsearch.Border.Class = "TextBoxBorder";
             this.txtsearch.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txtsearch.ButtonCustom.DisplayPosition")));
-            this.txtsearch.ButtonCustom.Image = null;
+            this.txtsearch.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txtsearch.ButtonCustom.Image")));
             this.txtsearch.ButtonCustom.Text = resources.GetString("txtsearch.ButtonCustom.Text");
             this.txtsearch.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txtsearch.ButtonCustom2.DisplayPosition")));
-            this.txtsearch.ButtonCustom2.Image = null;
+            this.txtsearch.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txtsearch.ButtonCustom2.Image")));
             this.txtsearch.ButtonCustom2.Text = resources.GetString("txtsearch.ButtonCustom2.Text");
             this.txtsearch.Name = "txtsearch";
             this.txtsearch.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtsearch_KeyDown);
             // 
             // labelX15
             // 
-            this.labelX15.AccessibleDescription = null;
-            this.labelX15.AccessibleName = null;
             resources.ApplyResources(this.labelX15, "labelX15");
-            this.labelX15.BackgroundImage = null;
-            this.labelX15.CommandParameter = null;
             this.labelX15.Name = "labelX15";
             this.labelX15.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
             // btn_Srearch
             // 
-            this.btn_Srearch.AccessibleDescription = null;
-            this.btn_Srearch.AccessibleName = null;
             resources.ApplyResources(this.btn_Srearch, "btn_Srearch");
             this.btn_Srearch.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btn_Srearch.BackgroundImage = null;
             this.btn_Srearch.Name = "btn_Srearch";
             this.btn_Srearch.UseVisualStyleBackColor = false;
             this.btn_Srearch.Click += new System.EventHandler(this.btn_Srearch_Click);
             // 
             // btn_Cancl
             // 
-            this.btn_Cancl.AccessibleDescription = null;
-            this.btn_Cancl.AccessibleName = null;
             resources.ApplyResources(this.btn_Cancl, "btn_Cancl");
             this.btn_Cancl.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btn_Cancl.BackgroundImage = null;
             this.btn_Cancl.Name = "btn_Cancl";
             this.btn_Cancl.UseVisualStyleBackColor = false;
             // 
             // txtSerNo
             // 
-            this.txtSerNo.AccessibleDescription = null;
-            this.txtSerNo.AccessibleName = null;
             resources.ApplyResources(this.txtSerNo, "txtSerNo");
-            this.txtSerNo.BackgroundImage = null;
             // 
             // 
             // 
             this.txtSerNo.Border.Class = "TextBoxBorder";
             this.txtSerNo.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txtSerNo.ButtonCustom.DisplayPosition")));
-            this.txtSerNo.ButtonCustom.Image = null;
+            this.txtSerNo.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txtSerNo.ButtonCustom.Image")));
             this.txtSerNo.ButtonCustom.Text = resources.GetString("txtSerNo.ButtonCustom.Text");
             this.txtSerNo.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txtSerNo.ButtonCustom2.DisplayPosition")));
-            this.txtSerNo.ButtonCustom2.Image = null;
+            this.txtSerNo.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txtSerNo.ButtonCustom2.Image")));
             this.txtSerNo.ButtonCustom2.Text = resources.GetString("txtSerNo.ButtonCustom2.Text");
             this.txtSerNo.Name = "txtSerNo";
             this.txtSerNo.TextChanged += new System.EventHandler(this.txtSerNo_TextChanged);
             // 
             // labelX6
             // 
-            this.labelX6.AccessibleDescription = null;
-            this.labelX6.AccessibleName = null;
             resources.ApplyResources(this.labelX6, "labelX6");
             this.labelX6.BackColor = System.Drawing.Color.Transparent;
-            this.labelX6.BackgroundImage = null;
-            this.labelX6.CommandParameter = null;
             this.labelX6.Name = "labelX6";
             this.labelX6.Click += new System.EventHandler(this.labelX6_Click);
             // 
+            // previous_
+            // 
+            resources.ApplyResources(this.previous_, "previous_");
+            this.previous_.BackColor = System.Drawing.Color.Transparent;
+            this.previous_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.previous_.Name = "previous_";
+            this.previous_.TabStop = false;
+            this.previous_.Click += new System.EventHandler(this.previous__Click);
+            // 
+            // first_
+            // 
+            resources.ApplyResources(this.first_, "first_");
+            this.first_.BackColor = System.Drawing.Color.Transparent;
+            this.first_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.first_.Name = "first_";
+            this.first_.TabStop = false;
+            // 
+            // next_
+            // 
+            resources.ApplyResources(this.next_, "next_");
+            this.next_.BackColor = System.Drawing.Color.Transparent;
+            this.next_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.next_.Name = "next_";
+            this.next_.TabStop = false;
+            // 
+            // last_
+            // 
+            resources.ApplyResources(this.last_, "last_");
+            this.last_.BackColor = System.Drawing.Color.Transparent;
+            this.last_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.last_.Name = "last_";
+            this.last_.TabStop = false;
+            // 
             // ribbonBar1
             // 
-            this.ribbonBar1.AccessibleDescription = null;
-            this.ribbonBar1.AccessibleName = null;
             resources.ApplyResources(this.ribbonBar1, "ribbonBar1");
             this.ribbonBar1.AutoOverflowEnabled = true;
-            this.ribbonBar1.BackgroundImage = null;
             this.ribbonBar1.ContainerControlProcessDialogKey = true;
             this.ribbonBar1.ForeColor = System.Drawing.SystemColors.WindowText;
             this.ribbonBar1.Items.AddRange(new DevComponents.DotNetBar.BaseItem[] {
@@ -288,17 +280,25 @@
             // 
             resources.ApplyResources(this.BNew, "BNew");
             this.BNew.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BNew.CommandParameter = null;
             this.BNew.ImagePaddingHorizontal = 15;
             this.BNew.Name = "BNew";
             this.BNew.SubItemsExpandWidth = 14;
             this.BNew.Click += new System.EventHandler(this.BNew_Click);
             // 
+            // BSave
+            // 
+            resources.ApplyResources(this.BSave, "BSave");
+            this.BSave.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
+            this.BSave.Image = global::Report_Pro.Properties.Resources.update;
+            this.BSave.ImagePaddingHorizontal = 15;
+            this.BSave.Name = "BSave";
+            this.BSave.SubItemsExpandWidth = 14;
+            this.BSave.Click += new System.EventHandler(this.BSave_Click);
+            // 
             // BEdit
             // 
             resources.ApplyResources(this.BEdit, "BEdit");
             this.BEdit.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BEdit.CommandParameter = null;
             this.BEdit.Enabled = false;
             this.BEdit.FontBold = true;
             this.BEdit.ImagePaddingHorizontal = 15;
@@ -310,7 +310,6 @@
             // 
             resources.ApplyResources(this.BSearch, "BSearch");
             this.BSearch.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BSearch.CommandParameter = null;
             this.BSearch.Image = global::Report_Pro.Properties.Resources.Reports2;
             this.BSearch.ImagePaddingHorizontal = 15;
             this.BSearch.Name = "BSearch";
@@ -321,7 +320,6 @@
             // 
             resources.ApplyResources(this.BtnPrint, "BtnPrint");
             this.BtnPrint.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BtnPrint.CommandParameter = null;
             this.BtnPrint.ImagePaddingHorizontal = 15;
             this.BtnPrint.Name = "BtnPrint";
             this.BtnPrint.SubItemsExpandWidth = 14;
@@ -331,7 +329,6 @@
             // 
             resources.ApplyResources(this.BtnCalc, "BtnCalc");
             this.BtnCalc.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BtnCalc.CommandParameter = null;
             this.BtnCalc.ImagePaddingHorizontal = 15;
             this.BtnCalc.Name = "BtnCalc";
             this.BtnCalc.SubItemsExpandWidth = 14;
@@ -340,7 +337,6 @@
             // 
             resources.ApplyResources(this.BExit, "BExit");
             this.BExit.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BExit.CommandParameter = null;
             this.BExit.ImagePaddingHorizontal = 15;
             this.BExit.ItemAlignment = DevComponents.DotNetBar.eItemAlignment.Far;
             this.BExit.Name = "BExit";
@@ -349,15 +345,12 @@
             // BtnPrint_all
             // 
             resources.ApplyResources(this.BtnPrint_all, "BtnPrint_all");
-            this.BtnPrint_all.CommandParameter = null;
             this.BtnPrint_all.Name = "BtnPrint_all";
             this.BtnPrint_all.SubItemsExpandWidth = 14;
             this.BtnPrint_all.Click += new System.EventHandler(this.BtnPrint_all_Click);
             // 
             // groupPanel3
             // 
-            this.groupPanel3.AccessibleDescription = null;
-            this.groupPanel3.AccessibleName = null;
             resources.ApplyResources(this.groupPanel3, "groupPanel3");
             this.groupPanel3.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel3.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
@@ -372,7 +365,6 @@
             this.groupPanel3.Controls.Add(this.labelX29);
             this.groupPanel3.Controls.Add(this.labelX28);
             this.groupPanel3.Controls.Add(this.labelX17);
-            this.groupPanel3.Font = null;
             this.groupPanel3.Name = "groupPanel3";
             // 
             // 
@@ -395,13 +387,18 @@
             this.groupPanel3.Style.TextColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
             this.groupPanel3.Style.TextLineAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Near;
             // 
+            // btnEnter
+            // 
+            resources.ApplyResources(this.btnEnter, "btnEnter");
+            this.btnEnter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnEnter.Name = "btnEnter";
+            this.btnEnter.UseVisualStyleBackColor = false;
+            this.btnEnter.Click += new System.EventHandler(this.btnEnter_Click);
+            // 
             // txt_accName
             // 
-            this.txt_accName.AccessibleDescription = null;
-            this.txt_accName.AccessibleName = null;
             resources.ApplyResources(this.txt_accName, "txt_accName");
             this.txt_accName.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txt_accName.BackgroundImage = null;
             // 
             // 
             // 
@@ -417,7 +414,6 @@
             this.txt_accName.BackgroundStyle.BorderRightColor = System.Drawing.SystemColors.WindowText;
             this.txt_accName.BackgroundStyle.BorderRightWidth = 1;
             this.txt_accName.BackgroundStyle.BorderTop = DevComponents.DotNetBar.eStyleBorderType.Solid;
-            this.txt_accName.CommandParameter = null;
             this.txt_accName.Name = "txt_accName";
             this.txt_accName.SingleLineColor = System.Drawing.SystemColors.ControlDarkDark;
             this.txt_accName.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
@@ -426,55 +422,38 @@
             // 
             // txt_Desc
             // 
-            this.txt_Desc.AccessibleDescription = null;
-            this.txt_Desc.AccessibleName = null;
             resources.ApplyResources(this.txt_Desc, "txt_Desc");
             this.txt_Desc.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txt_Desc.BackgroundImage = null;
             this.txt_Desc.Name = "txt_Desc";
             this.txt_Desc.TextChanged += new System.EventHandler(this.txt_Desc_TextChanged);
             this.txt_Desc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Desc_KeyDown);
             // 
             // labelX31
             // 
-            this.labelX31.AccessibleDescription = null;
-            this.labelX31.AccessibleName = null;
             resources.ApplyResources(this.labelX31, "labelX31");
             this.labelX31.BackColor = System.Drawing.Color.Transparent;
-            this.labelX31.BackgroundImage = null;
-            this.labelX31.CommandParameter = null;
             this.labelX31.Name = "labelX31";
             this.labelX31.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
             // txt_accNo
             // 
-            this.txt_accNo.AccessibleDescription = null;
-            this.txt_accNo.AccessibleName = null;
             resources.ApplyResources(this.txt_accNo, "txt_accNo");
             this.txt_accNo.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txt_accNo.BackgroundImage = null;
             this.txt_accNo.Name = "txt_accNo";
             this.txt_accNo.TextChanged += new System.EventHandler(this.txt_accNo_TextChanged);
             this.txt_accNo.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_accNo_KeyDown);
             // 
             // labelX30
             // 
-            this.labelX30.AccessibleDescription = null;
-            this.labelX30.AccessibleName = null;
             resources.ApplyResources(this.labelX30, "labelX30");
             this.labelX30.BackColor = System.Drawing.Color.Transparent;
-            this.labelX30.BackgroundImage = null;
-            this.labelX30.CommandParameter = null;
             this.labelX30.Name = "labelX30";
             this.labelX30.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
             // txt_Cr
             // 
-            this.txt_Cr.AccessibleDescription = null;
-            this.txt_Cr.AccessibleName = null;
             resources.ApplyResources(this.txt_Cr, "txt_Cr");
             this.txt_Cr.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txt_Cr.BackgroundImage = null;
             // 
             // 
             // 
@@ -482,35 +461,31 @@
             this.txt_Cr.BackgroundStyle.BorderColor = System.Drawing.SystemColors.ControlDarkDark;
             this.txt_Cr.BackgroundStyle.Class = "DateTimeInputBackground";
             this.txt_Cr.ButtonClear.DisplayPosition = ((int)(resources.GetObject("txt_Cr.ButtonClear.DisplayPosition")));
-            this.txt_Cr.ButtonClear.Image = null;
+            this.txt_Cr.ButtonClear.Image = ((System.Drawing.Image)(resources.GetObject("txt_Cr.ButtonClear.Image")));
             this.txt_Cr.ButtonClear.Text = resources.GetString("txt_Cr.ButtonClear.Text");
             this.txt_Cr.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txt_Cr.ButtonCustom.DisplayPosition")));
-            this.txt_Cr.ButtonCustom.Image = null;
+            this.txt_Cr.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txt_Cr.ButtonCustom.Image")));
             this.txt_Cr.ButtonCustom.Text = resources.GetString("txt_Cr.ButtonCustom.Text");
             this.txt_Cr.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txt_Cr.ButtonCustom2.DisplayPosition")));
-            this.txt_Cr.ButtonCustom2.Image = null;
+            this.txt_Cr.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txt_Cr.ButtonCustom2.Image")));
             this.txt_Cr.ButtonCustom2.Text = resources.GetString("txt_Cr.ButtonCustom2.Text");
             this.txt_Cr.ButtonDropDown.DisplayPosition = ((int)(resources.GetObject("txt_Cr.ButtonDropDown.DisplayPosition")));
-            this.txt_Cr.ButtonDropDown.Image = null;
+            this.txt_Cr.ButtonDropDown.Image = ((System.Drawing.Image)(resources.GetObject("txt_Cr.ButtonDropDown.Image")));
             this.txt_Cr.ButtonDropDown.Text = resources.GetString("txt_Cr.ButtonDropDown.Text");
             this.txt_Cr.ButtonFreeText.DisplayPosition = ((int)(resources.GetObject("txt_Cr.ButtonFreeText.DisplayPosition")));
-            this.txt_Cr.ButtonFreeText.Image = null;
+            this.txt_Cr.ButtonFreeText.Image = ((System.Drawing.Image)(resources.GetObject("txt_Cr.ButtonFreeText.Image")));
             this.txt_Cr.ButtonFreeText.Shortcut = DevComponents.DotNetBar.eShortcut.F2;
             this.txt_Cr.ButtonFreeText.Text = resources.GetString("txt_Cr.ButtonFreeText.Text");
-            this.txt_Cr.CommandParameter = null;
             this.txt_Cr.FocusHighlightColor = System.Drawing.Color.White;
-            this.txt_Cr.Increment = 1;
+            this.txt_Cr.Increment = 1D;
             this.txt_Cr.Name = "txt_Cr";
             this.txt_Cr.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Cr_KeyDown);
             this.txt_Cr.Leave += new System.EventHandler(this.txt_Cr_Leave);
             // 
             // txt_Db
             // 
-            this.txt_Db.AccessibleDescription = null;
-            this.txt_Db.AccessibleName = null;
             resources.ApplyResources(this.txt_Db, "txt_Db");
             this.txt_Db.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.txt_Db.BackgroundImage = null;
             // 
             // 
             // 
@@ -518,68 +493,53 @@
             this.txt_Db.BackgroundStyle.BorderColor = System.Drawing.SystemColors.ControlDarkDark;
             this.txt_Db.BackgroundStyle.Class = "DateTimeInputBackground";
             this.txt_Db.ButtonClear.DisplayPosition = ((int)(resources.GetObject("txt_Db.ButtonClear.DisplayPosition")));
-            this.txt_Db.ButtonClear.Image = null;
+            this.txt_Db.ButtonClear.Image = ((System.Drawing.Image)(resources.GetObject("txt_Db.ButtonClear.Image")));
             this.txt_Db.ButtonClear.Text = resources.GetString("txt_Db.ButtonClear.Text");
             this.txt_Db.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txt_Db.ButtonCustom.DisplayPosition")));
-            this.txt_Db.ButtonCustom.Image = null;
+            this.txt_Db.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txt_Db.ButtonCustom.Image")));
             this.txt_Db.ButtonCustom.Text = resources.GetString("txt_Db.ButtonCustom.Text");
             this.txt_Db.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txt_Db.ButtonCustom2.DisplayPosition")));
-            this.txt_Db.ButtonCustom2.Image = null;
+            this.txt_Db.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txt_Db.ButtonCustom2.Image")));
             this.txt_Db.ButtonCustom2.Text = resources.GetString("txt_Db.ButtonCustom2.Text");
             this.txt_Db.ButtonDropDown.DisplayPosition = ((int)(resources.GetObject("txt_Db.ButtonDropDown.DisplayPosition")));
-            this.txt_Db.ButtonDropDown.Image = null;
+            this.txt_Db.ButtonDropDown.Image = ((System.Drawing.Image)(resources.GetObject("txt_Db.ButtonDropDown.Image")));
             this.txt_Db.ButtonDropDown.Text = resources.GetString("txt_Db.ButtonDropDown.Text");
             this.txt_Db.ButtonFreeText.DisplayPosition = ((int)(resources.GetObject("txt_Db.ButtonFreeText.DisplayPosition")));
-            this.txt_Db.ButtonFreeText.Image = null;
+            this.txt_Db.ButtonFreeText.Image = ((System.Drawing.Image)(resources.GetObject("txt_Db.ButtonFreeText.Image")));
             this.txt_Db.ButtonFreeText.Shortcut = DevComponents.DotNetBar.eShortcut.F2;
             this.txt_Db.ButtonFreeText.Text = resources.GetString("txt_Db.ButtonFreeText.Text");
-            this.txt_Db.CommandParameter = null;
             this.txt_Db.FocusHighlightColor = System.Drawing.Color.White;
-            this.txt_Db.Increment = 1;
+            this.txt_Db.Increment = 1D;
             this.txt_Db.Name = "txt_Db";
             this.txt_Db.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Db_KeyDown);
             this.txt_Db.Leave += new System.EventHandler(this.txt_Db_Leave);
             // 
             // labelX29
             // 
-            this.labelX29.AccessibleDescription = null;
-            this.labelX29.AccessibleName = null;
             resources.ApplyResources(this.labelX29, "labelX29");
             this.labelX29.BackColor = System.Drawing.Color.Transparent;
-            this.labelX29.BackgroundImage = null;
-            this.labelX29.CommandParameter = null;
             this.labelX29.Name = "labelX29";
             this.labelX29.TextAlignment = System.Drawing.StringAlignment.Center;
             this.labelX29.Click += new System.EventHandler(this.labelX29_Click);
             // 
             // labelX28
             // 
-            this.labelX28.AccessibleDescription = null;
-            this.labelX28.AccessibleName = null;
             resources.ApplyResources(this.labelX28, "labelX28");
             this.labelX28.BackColor = System.Drawing.Color.Transparent;
-            this.labelX28.BackgroundImage = null;
-            this.labelX28.CommandParameter = null;
             this.labelX28.Name = "labelX28";
             this.labelX28.TextAlignment = System.Drawing.StringAlignment.Center;
             this.labelX28.Click += new System.EventHandler(this.labelX28_Click);
             // 
             // labelX17
             // 
-            this.labelX17.AccessibleDescription = null;
-            this.labelX17.AccessibleName = null;
             resources.ApplyResources(this.labelX17, "labelX17");
             this.labelX17.BackColor = System.Drawing.Color.Transparent;
-            this.labelX17.BackgroundImage = null;
-            this.labelX17.CommandParameter = null;
             this.labelX17.Name = "labelX17";
             this.labelX17.TextAlignment = System.Drawing.StringAlignment.Center;
             this.labelX17.Click += new System.EventHandler(this.labelX17_Click);
             // 
             // groupPanel4
             // 
-            this.groupPanel4.AccessibleDescription = null;
-            this.groupPanel4.AccessibleName = null;
             resources.ApplyResources(this.groupPanel4, "groupPanel4");
             this.groupPanel4.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel4.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
@@ -589,7 +549,6 @@
             this.groupPanel4.Controls.Add(this.BtnDelRow);
             this.groupPanel4.Controls.Add(this.totalCredit);
             this.groupPanel4.Controls.Add(this.totalDebit);
-            this.groupPanel4.Font = null;
             this.groupPanel4.Name = "groupPanel4";
             // 
             // 
@@ -613,23 +572,23 @@
             this.groupPanel4.Style.TextLineAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Near;
             this.groupPanel4.Click += new System.EventHandler(this.groupPanel4_Click);
             // 
+            // pictureBox2
+            // 
+            resources.ApplyResources(this.pictureBox2, "pictureBox2");
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.TabStop = false;
+            // 
             // labelX8
             // 
-            this.labelX8.AccessibleDescription = null;
-            this.labelX8.AccessibleName = null;
             resources.ApplyResources(this.labelX8, "labelX8");
             this.labelX8.BackColor = System.Drawing.Color.Transparent;
-            this.labelX8.BackgroundImage = null;
-            this.labelX8.CommandParameter = null;
             this.labelX8.Name = "labelX8";
             this.labelX8.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
             // txtdiff
             // 
-            this.txtdiff.AccessibleDescription = null;
-            this.txtdiff.AccessibleName = null;
             resources.ApplyResources(this.txtdiff, "txtdiff");
-            this.txtdiff.BackgroundImage = null;
             // 
             // 
             // 
@@ -644,30 +603,34 @@
             this.txtdiff.BackgroundStyle.BorderTopWidth = 1;
             this.txtdiff.BackgroundStyle.Class = "DateTimeInputBackground";
             this.txtdiff.ButtonClear.DisplayPosition = ((int)(resources.GetObject("txtdiff.ButtonClear.DisplayPosition")));
-            this.txtdiff.ButtonClear.Image = null;
+            this.txtdiff.ButtonClear.Image = ((System.Drawing.Image)(resources.GetObject("txtdiff.ButtonClear.Image")));
             this.txtdiff.ButtonClear.Text = resources.GetString("txtdiff.ButtonClear.Text");
             this.txtdiff.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txtdiff.ButtonCustom.DisplayPosition")));
-            this.txtdiff.ButtonCustom.Image = null;
+            this.txtdiff.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txtdiff.ButtonCustom.Image")));
             this.txtdiff.ButtonCustom.Text = resources.GetString("txtdiff.ButtonCustom.Text");
             this.txtdiff.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txtdiff.ButtonCustom2.DisplayPosition")));
-            this.txtdiff.ButtonCustom2.Image = null;
+            this.txtdiff.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txtdiff.ButtonCustom2.Image")));
             this.txtdiff.ButtonCustom2.Text = resources.GetString("txtdiff.ButtonCustom2.Text");
             this.txtdiff.ButtonDropDown.DisplayPosition = ((int)(resources.GetObject("txtdiff.ButtonDropDown.DisplayPosition")));
-            this.txtdiff.ButtonDropDown.Image = null;
+            this.txtdiff.ButtonDropDown.Image = ((System.Drawing.Image)(resources.GetObject("txtdiff.ButtonDropDown.Image")));
             this.txtdiff.ButtonDropDown.Text = resources.GetString("txtdiff.ButtonDropDown.Text");
             this.txtdiff.ButtonFreeText.DisplayPosition = ((int)(resources.GetObject("txtdiff.ButtonFreeText.DisplayPosition")));
-            this.txtdiff.ButtonFreeText.Image = null;
+            this.txtdiff.ButtonFreeText.Image = ((System.Drawing.Image)(resources.GetObject("txtdiff.ButtonFreeText.Image")));
             this.txtdiff.ButtonFreeText.Text = resources.GetString("txtdiff.ButtonFreeText.Text");
-            this.txtdiff.CommandParameter = null;
-            this.txtdiff.Increment = 1;
+            this.txtdiff.Increment = 1D;
             this.txtdiff.Name = "txtdiff";
+            // 
+            // BtnDelRow
+            // 
+            resources.ApplyResources(this.BtnDelRow, "BtnDelRow");
+            this.BtnDelRow.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.BtnDelRow.Name = "BtnDelRow";
+            this.BtnDelRow.UseVisualStyleBackColor = true;
+            this.BtnDelRow.Click += new System.EventHandler(this.BtnDelRow_Click);
             // 
             // totalCredit
             // 
-            this.totalCredit.AccessibleDescription = null;
-            this.totalCredit.AccessibleName = null;
             resources.ApplyResources(this.totalCredit, "totalCredit");
-            this.totalCredit.BackgroundImage = null;
             // 
             // 
             // 
@@ -682,30 +645,26 @@
             this.totalCredit.BackgroundStyle.BorderTopWidth = 1;
             this.totalCredit.BackgroundStyle.Class = "DateTimeInputBackground";
             this.totalCredit.ButtonClear.DisplayPosition = ((int)(resources.GetObject("totalCredit.ButtonClear.DisplayPosition")));
-            this.totalCredit.ButtonClear.Image = null;
+            this.totalCredit.ButtonClear.Image = ((System.Drawing.Image)(resources.GetObject("totalCredit.ButtonClear.Image")));
             this.totalCredit.ButtonClear.Text = resources.GetString("totalCredit.ButtonClear.Text");
             this.totalCredit.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("totalCredit.ButtonCustom.DisplayPosition")));
-            this.totalCredit.ButtonCustom.Image = null;
+            this.totalCredit.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("totalCredit.ButtonCustom.Image")));
             this.totalCredit.ButtonCustom.Text = resources.GetString("totalCredit.ButtonCustom.Text");
             this.totalCredit.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("totalCredit.ButtonCustom2.DisplayPosition")));
-            this.totalCredit.ButtonCustom2.Image = null;
+            this.totalCredit.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("totalCredit.ButtonCustom2.Image")));
             this.totalCredit.ButtonCustom2.Text = resources.GetString("totalCredit.ButtonCustom2.Text");
             this.totalCredit.ButtonDropDown.DisplayPosition = ((int)(resources.GetObject("totalCredit.ButtonDropDown.DisplayPosition")));
-            this.totalCredit.ButtonDropDown.Image = null;
+            this.totalCredit.ButtonDropDown.Image = ((System.Drawing.Image)(resources.GetObject("totalCredit.ButtonDropDown.Image")));
             this.totalCredit.ButtonDropDown.Text = resources.GetString("totalCredit.ButtonDropDown.Text");
             this.totalCredit.ButtonFreeText.DisplayPosition = ((int)(resources.GetObject("totalCredit.ButtonFreeText.DisplayPosition")));
-            this.totalCredit.ButtonFreeText.Image = null;
+            this.totalCredit.ButtonFreeText.Image = ((System.Drawing.Image)(resources.GetObject("totalCredit.ButtonFreeText.Image")));
             this.totalCredit.ButtonFreeText.Text = resources.GetString("totalCredit.ButtonFreeText.Text");
-            this.totalCredit.CommandParameter = null;
-            this.totalCredit.Increment = 1;
+            this.totalCredit.Increment = 1D;
             this.totalCredit.Name = "totalCredit";
             // 
             // totalDebit
             // 
-            this.totalDebit.AccessibleDescription = null;
-            this.totalDebit.AccessibleName = null;
             resources.ApplyResources(this.totalDebit, "totalDebit");
-            this.totalDebit.BackgroundImage = null;
             // 
             // 
             // 
@@ -720,35 +679,31 @@
             this.totalDebit.BackgroundStyle.BorderTopWidth = 1;
             this.totalDebit.BackgroundStyle.Class = "DateTimeInputBackground";
             this.totalDebit.ButtonClear.DisplayPosition = ((int)(resources.GetObject("totalDebit.ButtonClear.DisplayPosition")));
-            this.totalDebit.ButtonClear.Image = null;
+            this.totalDebit.ButtonClear.Image = ((System.Drawing.Image)(resources.GetObject("totalDebit.ButtonClear.Image")));
             this.totalDebit.ButtonClear.Text = resources.GetString("totalDebit.ButtonClear.Text");
             this.totalDebit.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("totalDebit.ButtonCustom.DisplayPosition")));
-            this.totalDebit.ButtonCustom.Image = null;
+            this.totalDebit.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("totalDebit.ButtonCustom.Image")));
             this.totalDebit.ButtonCustom.Text = resources.GetString("totalDebit.ButtonCustom.Text");
             this.totalDebit.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("totalDebit.ButtonCustom2.DisplayPosition")));
-            this.totalDebit.ButtonCustom2.Image = null;
+            this.totalDebit.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("totalDebit.ButtonCustom2.Image")));
             this.totalDebit.ButtonCustom2.Text = resources.GetString("totalDebit.ButtonCustom2.Text");
             this.totalDebit.ButtonDropDown.DisplayPosition = ((int)(resources.GetObject("totalDebit.ButtonDropDown.DisplayPosition")));
-            this.totalDebit.ButtonDropDown.Image = null;
+            this.totalDebit.ButtonDropDown.Image = ((System.Drawing.Image)(resources.GetObject("totalDebit.ButtonDropDown.Image")));
             this.totalDebit.ButtonDropDown.Text = resources.GetString("totalDebit.ButtonDropDown.Text");
             this.totalDebit.ButtonFreeText.DisplayPosition = ((int)(resources.GetObject("totalDebit.ButtonFreeText.DisplayPosition")));
-            this.totalDebit.ButtonFreeText.Image = null;
+            this.totalDebit.ButtonFreeText.Image = ((System.Drawing.Image)(resources.GetObject("totalDebit.ButtonFreeText.Image")));
             this.totalDebit.ButtonFreeText.Text = resources.GetString("totalDebit.ButtonFreeText.Text");
-            this.totalDebit.CommandParameter = null;
-            this.totalDebit.Increment = 1;
+            this.totalDebit.Increment = 1D;
             this.totalDebit.Name = "totalDebit";
             // 
             // dGV_Item
             // 
-            this.dGV_Item.AccessibleDescription = null;
-            this.dGV_Item.AccessibleName = null;
+            resources.ApplyResources(this.dGV_Item, "dGV_Item");
             this.dGV_Item.AllowUserToAddRows = false;
             this.dGV_Item.AllowUserToDeleteRows = false;
             dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Info;
             this.dGV_Item.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            resources.ApplyResources(this.dGV_Item, "dGV_Item");
             this.dGV_Item.BackgroundColor = System.Drawing.SystemColors.Window;
-            this.dGV_Item.BackgroundImage = null;
             this.dGV_Item.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.dGV_Item.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Raised;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
@@ -760,7 +715,6 @@
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dGV_Item.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dGV_Item.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dGV_Item.Font = null;
             this.dGV_Item.GridColor = System.Drawing.SystemColors.WindowText;
             this.dGV_Item.MultiSelect = false;
             this.dGV_Item.Name = "dGV_Item";
@@ -780,136 +734,35 @@
             this.dGV_Item.ShowCellToolTips = false;
             this.dGV_Item.DoubleClick += new System.EventHandler(this.dGV_Item_DoubleClick);
             // 
-            // pictureBox2
-            // 
-            this.pictureBox2.AccessibleDescription = null;
-            this.pictureBox2.AccessibleName = null;
-            resources.ApplyResources(this.pictureBox2, "pictureBox2");
-            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.BackgroundImage = null;
-            this.pictureBox2.Font = null;
-            this.pictureBox2.ImageLocation = null;
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.TabStop = false;
-            // 
-            // previous_
-            // 
-            this.previous_.AccessibleDescription = null;
-            this.previous_.AccessibleName = null;
-            resources.ApplyResources(this.previous_, "previous_");
-            this.previous_.BackColor = System.Drawing.Color.Transparent;
-            this.previous_.BackgroundImage = null;
-            this.previous_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.previous_.Font = null;
-            this.previous_.ImageLocation = null;
-            this.previous_.Name = "previous_";
-            this.previous_.TabStop = false;
-            this.previous_.Click += new System.EventHandler(this.previous__Click);
-            // 
-            // first_
-            // 
-            this.first_.AccessibleDescription = null;
-            this.first_.AccessibleName = null;
-            resources.ApplyResources(this.first_, "first_");
-            this.first_.BackColor = System.Drawing.Color.Transparent;
-            this.first_.BackgroundImage = null;
-            this.first_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.first_.Font = null;
-            this.first_.ImageLocation = null;
-            this.first_.Name = "first_";
-            this.first_.TabStop = false;
-            // 
-            // next_
-            // 
-            this.next_.AccessibleDescription = null;
-            this.next_.AccessibleName = null;
-            resources.ApplyResources(this.next_, "next_");
-            this.next_.BackColor = System.Drawing.Color.Transparent;
-            this.next_.BackgroundImage = null;
-            this.next_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.next_.Font = null;
-            this.next_.ImageLocation = null;
-            this.next_.Name = "next_";
-            this.next_.TabStop = false;
-            // 
-            // last_
-            // 
-            this.last_.AccessibleDescription = null;
-            this.last_.AccessibleName = null;
-            resources.ApplyResources(this.last_, "last_");
-            this.last_.BackColor = System.Drawing.Color.Transparent;
-            this.last_.BackgroundImage = null;
-            this.last_.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.last_.Font = null;
-            this.last_.ImageLocation = null;
-            this.last_.Name = "last_";
-            this.last_.TabStop = false;
-            // 
-            // BSave
-            // 
-            resources.ApplyResources(this.BSave, "BSave");
-            this.BSave.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BSave.CommandParameter = null;
-            this.BSave.Image = global::Report_Pro.Properties.Resources.update;
-            this.BSave.ImagePaddingHorizontal = 15;
-            this.BSave.Name = "BSave";
-            this.BSave.SubItemsExpandWidth = 14;
-            this.BSave.Click += new System.EventHandler(this.BSave_Click);
-            // 
-            // btnEnter
-            // 
-            this.btnEnter.AccessibleDescription = null;
-            this.btnEnter.AccessibleName = null;
-            resources.ApplyResources(this.btnEnter, "btnEnter");
-            this.btnEnter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnEnter.Font = null;
-            this.btnEnter.Name = "btnEnter";
-            this.btnEnter.UseVisualStyleBackColor = false;
-            this.btnEnter.Click += new System.EventHandler(this.btnEnter_Click);
-            // 
-            // BtnDelRow
-            // 
-            this.BtnDelRow.AccessibleDescription = null;
-            this.BtnDelRow.AccessibleName = null;
-            resources.ApplyResources(this.BtnDelRow, "BtnDelRow");
-            this.BtnDelRow.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.BtnDelRow.Name = "BtnDelRow";
-            this.BtnDelRow.UseVisualStyleBackColor = true;
-            this.BtnDelRow.Click += new System.EventHandler(this.BtnDelRow_Click);
-            // 
             // frm_BS_elements
             // 
-            this.AccessibleDescription = null;
-            this.AccessibleName = null;
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
-            this.BackgroundImage = null;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.Controls.Add(this.dGV_Item);
             this.Controls.Add(this.groupPanel4);
             this.Controls.Add(this.groupPanel3);
             this.Controls.Add(this.groupPanel1);
             this.Controls.Add(this.ribbonBar1);
-            this.Icon = null;
             this.Name = "frm_BS_elements";
             this.Load += new System.EventHandler(this.frm_BS_elements_Load);
             this.groupPanel1.ResumeLayout(false);
             this.groupPanel1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.previous_)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.first_)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.next_)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.last_)).EndInit();
             this.groupPanel3.ResumeLayout(false);
             this.groupPanel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txt_Cr)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txt_Db)).EndInit();
             this.groupPanel4.ResumeLayout(false);
             this.groupPanel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtdiff)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.totalCredit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.totalDebit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dGV_Item)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.previous_)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.first_)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.next_)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.last_)).EndInit();
             this.ResumeLayout(false);
 
         }

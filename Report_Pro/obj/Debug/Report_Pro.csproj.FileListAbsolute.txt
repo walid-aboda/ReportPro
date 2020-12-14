@@ -1713,28 +1713,6 @@ C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Crys
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportSource.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Shared.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.BonusSkins.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Charts.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.CodeParser.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Data.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Printing.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Utils.v19.1.UI.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
@@ -1747,24 +1725,11 @@ C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.Repo
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\FlashControlV71.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ADODB.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\stdole.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
-C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Data.v19.1.xml
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.xml
 C:\my_program - 11-11-2020\New Report\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.xml
@@ -1951,6 +1916,9 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Cha
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.CodeParser.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Data.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
@@ -1963,13 +1931,21 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Uti
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\EZTwainLibrary.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\HijriDate.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.dll
@@ -1987,25 +1963,16 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\CrystalDecisio
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\FlashControlV71.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Images.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\office.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ADODB.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\stdole.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ShockwaveFlashObjects.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Data.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Office.v19.1.Core.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
@@ -2017,26 +1984,24 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Uti
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Xpo.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraBars.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraEditors.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraGrid.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Microsoft.Office.Interop.Outlook.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\office.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
@@ -2045,6 +2010,14 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
@@ -2089,6 +2062,10 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
@@ -2105,6 +2082,14 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
@@ -2117,45 +2102,22 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\bin\Debug\Interop.WIA.dll
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Interop.WIA.dll
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.csproj.ResolveComReference.cache
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Form1.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Banks.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Master.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Form_1.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.frm_Master.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.resources
@@ -2226,7 +2188,6 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.frm_Create_PE_Jor.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.frm_deposit.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.frm_inputText.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Main.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.Frm_Main.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.frm_matrail_id.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.frm_PaySanad.resources
@@ -2263,8 +2224,6 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Rep
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_BalanceByBranch.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalTransprtRevenu.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Resources.en.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_InventoryList.resources
@@ -2315,11 +2274,8 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.Purchase_reports.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.rpt_Mantinance.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.Rpt_Trans_Detials.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.XtraForm1.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Report.XtraReport1.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventory.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.XtraForm2.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Forms.frm_Master.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Lang.Langres.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.MyControls.LoanRow.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.MyControls.UC_Acc.ar.resources
@@ -2371,7 +2327,6 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.PL.
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_ItemBalanceByBranches.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_BalanceByBranch.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Reports.rpt_TotalInventoryByBranch.ar.resources
-C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Resources.Messages.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.frmAccDetails.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.ar.resources
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.RPT.frm_lcsRep.sq-AL.resources
@@ -2412,3 +2367,4 @@ C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\ar-DZ\Report_P
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.exe
 C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.pdb
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.Resources.ar.resources

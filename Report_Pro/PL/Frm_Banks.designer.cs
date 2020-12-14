@@ -72,7 +72,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            //this.layoutControlItem13 = new DevExpress.XtraLayout.LayoutControlItem();
             this.groupPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BNameA.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BID.Properties)).BeginInit();
@@ -80,7 +79,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.Loans_Rate)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtComnication)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BAccept)).BeginInit();
-            //((System.ComponentModel.ISupportInitialize)(this.layoutControlItem13)).BeginInit();
             this.SuspendLayout();
             // 
             // ribbonBar1
@@ -119,7 +117,7 @@
             // BSearch
             // 
             this.BSearch.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
-            this.BSearch.Image = global::Report_Pro.Properties.Resources.search_Icon;
+            this.BSearch.Image = global::Report_Pro.Properties.Resources.Search_icon1;
             this.BSearch.Name = "BSearch";
             this.BSearch.SubItemsExpandWidth = 14;
             resources.ApplyResources(this.BSearch, "BSearch");
@@ -128,6 +126,7 @@
             // BExit
             // 
             this.BExit.ButtonStyle = DevComponents.DotNetBar.eButtonStyle.ImageAndText;
+            this.BExit.Image = global::Report_Pro.Properties.Resources.Exit_icon;
             this.BExit.Name = "BExit";
             resources.ApplyResources(this.BExit, "BExit");
             this.BExit.SubItemsExpandWidth = 14;
@@ -469,10 +468,6 @@
             this.label7.ForeColor = System.Drawing.SystemColors.WindowText;
             this.label7.Name = "label7";
             // 
-            // layoutControlItem13
-            // 
-           
-            // 
             // Frm_Banks
             // 
             resources.ApplyResources(this, "$this");
@@ -486,8 +481,6 @@
             this.ShowIcon = false;
             this.Load += new System.EventHandler(this.Frm_Banks_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Frm_Banks_KeyDown);
-            this.Controls.SetChildIndex(this.ribbonBar1, 0);
-            this.Controls.SetChildIndex(this.groupPanel1, 0);
             this.groupPanel1.ResumeLayout(false);
             this.groupPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BNameA.Properties)).EndInit();
@@ -496,9 +489,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.Loans_Rate)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtComnication)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BAccept)).EndInit();
-            //((System.ComponentModel.ISupportInitialize)(this.layoutControlItem13)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
