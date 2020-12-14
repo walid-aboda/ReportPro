@@ -40,7 +40,6 @@
             this.label20 = new System.Windows.Forms.Label();
             this.txtLcAcc = new Report_Pro.MyControls.UC_Acc();
             this.label19 = new System.Windows.Forms.Label();
-            this.BID = new DevExpress.XtraEditors.TextEdit();
             this.label18 = new System.Windows.Forms.Label();
             this.txt_Facility = new DevComponents.Editors.DoubleInput();
             this.Loans_Rate = new DevComponents.Editors.DoubleInput();
@@ -72,9 +71,9 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.BID = new System.Windows.Forms.TextBox();
             this.groupPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BNameA.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BID.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txt_Facility)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Loans_Rate)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtComnication)).BeginInit();
@@ -136,12 +135,12 @@
             // 
             this.groupPanel1.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
+            this.groupPanel1.Controls.Add(this.BID);
             this.groupPanel1.Controls.Add(this.BNameA);
             this.groupPanel1.Controls.Add(this.label16);
             this.groupPanel1.Controls.Add(this.label20);
             this.groupPanel1.Controls.Add(this.txtLcAcc);
             this.groupPanel1.Controls.Add(this.label19);
-            this.groupPanel1.Controls.Add(this.BID);
             this.groupPanel1.Controls.Add(this.label18);
             this.groupPanel1.Controls.Add(this.txt_Facility);
             this.groupPanel1.Controls.Add(this.Loans_Rate);
@@ -229,12 +228,6 @@
             this.label19.BackColor = System.Drawing.Color.Transparent;
             this.label19.ForeColor = System.Drawing.SystemColors.WindowText;
             this.label19.Name = "label19";
-            // 
-            // BID
-            // 
-            resources.ApplyResources(this.BID, "BID");
-            this.BID.Name = "BID";
-            this.BID.EditValueChanged += new System.EventHandler(this.BID_EditValueChanged);
             // 
             // label18
             // 
@@ -468,6 +461,11 @@
             this.label7.ForeColor = System.Drawing.SystemColors.WindowText;
             this.label7.Name = "label7";
             // 
+            // BID
+            // 
+            resources.ApplyResources(this.BID, "BID");
+            this.BID.Name = "BID";
+            // 
             // Frm_Banks
             // 
             resources.ApplyResources(this, "$this");
@@ -484,7 +482,6 @@
             this.groupPanel1.ResumeLayout(false);
             this.groupPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BNameA.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BID.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txt_Facility)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Loans_Rate)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtComnication)).EndInit();
@@ -533,10 +530,10 @@
         private DevComponents.Editors.DoubleInput txtComnication;
         private System.Windows.Forms.Label label20;
         private MyControls.UC_Acc txtLcAcc;
-        private DevExpress.XtraEditors.TextEdit BID;
         private System.Windows.Forms.TextBox txt_accName;
         //private DevExpress.XtraLayout.LayoutControlItem layoutControlItem13;
         private System.Windows.Forms.Label label16;
         private DevExpress.XtraEditors.TextEdit BNameA;
+        private System.Windows.Forms.TextBox BID;
     }
 }
