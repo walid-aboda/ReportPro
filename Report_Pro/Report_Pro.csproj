@@ -1504,6 +1504,10 @@
     <EmbeddedResource Include="RPT\frm_rpt_inventory.ar.resx">
       <DependentUpon>frm_rpt_inventory.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="RPT\print_PurchaseInv.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>print_PurchaseInv.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="RPT\rpt_AccDetials.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rpt_AccDetials.cs</LastGenOutput>
@@ -1513,6 +1517,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_InventoryList.resx">
       <DependentUpon>rpt_InventoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\Rpt_inv.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_inv.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="RPT\rpt_inventory_Mstore_Branchs_G.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -1981,10 +1989,6 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rpt_Galvanaize_rpt.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="RPT\Rpt_inv.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rpt_inv.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="RPT\rpt_inventory.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rpt_inventory.cs</LastGenOutput>
@@ -2274,6 +2278,12 @@
     <Compile Include="RPT\frm_lcsRep.designer.cs">
       <DependentUpon>frm_lcsRep.cs</DependentUpon>
     </Compile>
+    <Compile Include="RPT\print_PurchaseInv.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>print_PurchaseInv.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="RPT\rpt_AccDetials.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -2285,6 +2295,12 @@
     </Compile>
     <Compile Include="Reports\rpt_InventoryList.Designer.cs">
       <DependentUpon>rpt_InventoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPT\Rpt_inv.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_inv.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="RPT\rpt_inventory_Mstore_Branchs_G.cs">
       <DependentUpon>rpt_inventory_Mstore_Branchs_G.rpt</DependentUpon>
@@ -2865,12 +2881,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rpt_Galvanaize_rpt.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="RPT\Rpt_inv.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rpt_inv.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="RPT\rpt_inventory.cs">

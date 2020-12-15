@@ -118,15 +118,73 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="labelX4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="buttonX2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonX2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>102, 130</value>
+  </data>
+  <data name="buttonX2.Text" xml:space="preserve">
+    <value>طباعة الفواتير الداخلية</value>
+  </data>
+  <data name="buttonX1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="buttonX1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>102, 79</value>
+  </data>
+  <data name="buttonX1.Text" xml:space="preserve">
+    <value>حفظ الفواتير الداخلية PDF</value>
+  </data>
+  <data name="labelX6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="labelX6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>600, 105</value>
+  </data>
+  <data name="labelX6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>51, 17</value>
+  </data>
+  <data name="labelX6.Text" xml:space="preserve">
+    <value>الي فاتورة</value>
+  </data>
+  <data name="txtSer_1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtSer_1.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtSer_1.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtSer_1.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSer_1.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtSer_1.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtSer_1.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSer_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>514, 103</value>
+  </data>
+  <data name="txtSer_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 20</value>
+  </data>
+  <data name="labelX4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
   <data name="labelX4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>257, 113</value>
+    <value>357, 79</value>
   </data>
   <data name="labelX4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 22</value>
+    <value>34, 17</value>
   </data>
   <data name="labelX4.Text" xml:space="preserve">
     <value>السنة</value>
@@ -135,19 +193,22 @@
     <value>Top, Right</value>
   </data>
   <data name="btnPrint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 36</value>
+    <value>102, 27</value>
   </data>
   <data name="btnPrint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>111, 68</value>
+    <value>158, 47</value>
+  </data>
+  <data name="btnPrint.Text" xml:space="preserve">
+    <value>طباعة فواتير المشتريات الخارجية</value>
   </data>
   <data name="labelX3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="labelX3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>617, 113</value>
+    <value>600, 77</value>
   </data>
   <data name="labelX3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 22</value>
+    <value>57, 17</value>
   </data>
   <data name="labelX3.Text" xml:space="preserve">
     <value>رقم الفاتورة</value>
@@ -156,10 +217,10 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>617, 78</value>
+    <value>600, 53</value>
   </data>
   <data name="labelX2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 22</value>
+    <value>35, 17</value>
   </data>
   <data name="labelX2.Text" xml:space="preserve">
     <value>الحركة</value>
@@ -168,10 +229,10 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>617, 40</value>
+    <value>600, 27</value>
   </data>
   <data name="labelX1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 22</value>
+    <value>29, 17</value>
   </data>
   <data name="labelX1.Text" xml:space="preserve">
     <value>الفرع</value>
@@ -179,40 +240,105 @@
   <data name="txtSer.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
+  <data name="txtSer.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtSer.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtSer.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSer.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtSer.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtSer.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
   <data name="txtSer.Location" type="System.Drawing.Point, System.Drawing">
-    <value>459, 111</value>
+    <value>514, 79</value>
+  </data>
+  <data name="txtSer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 20</value>
   </data>
   <data name="txtYear.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
+  <data name="txtYear.ButtonClear.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtYear.ButtonClear.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtYear.ButtonClear.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtYear.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtYear.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtYear.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtYear.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtYear.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtYear.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtYear.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtYear.ButtonDropDown.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtYear.ButtonDropDown.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtYear.ButtonFreeText.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtYear.ButtonFreeText.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="txtYear.ButtonFreeText.Text" xml:space="preserve">
+    <value />
+  </data>
   <data name="txtYear.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 111</value>
+    <value>272, 78</value>
   </data>
   <data name="Transaction.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="Transaction.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 74</value>
+    <value>272, 53</value>
   </data>
   <data name="Branch.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="Branch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 36</value>
+    <value>272, 27</value>
   </data>
   <data name="groupPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>720, 253</value>
+    <value>689, 259</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>720, 253</value>
+    <value>689, 259</value>
   </data>
   <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+    <value>Inherit</value>
   </data>
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>

@@ -30,6 +30,10 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_Print_invoice));
             this.groupPanel1 = new DevComponents.DotNetBar.Controls.GroupPanel();
+            this.buttonX2 = new DevComponents.DotNetBar.ButtonX();
+            this.buttonX1 = new DevComponents.DotNetBar.ButtonX();
+            this.labelX6 = new DevComponents.DotNetBar.LabelX();
+            this.txtSer_1 = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.labelX4 = new DevComponents.DotNetBar.LabelX();
             this.btnPrint = new DevComponents.DotNetBar.ButtonX();
             this.labelX3 = new DevComponents.DotNetBar.LabelX();
@@ -48,6 +52,10 @@
             resources.ApplyResources(this.groupPanel1, "groupPanel1");
             this.groupPanel1.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
+            this.groupPanel1.Controls.Add(this.buttonX2);
+            this.groupPanel1.Controls.Add(this.buttonX1);
+            this.groupPanel1.Controls.Add(this.labelX6);
+            this.groupPanel1.Controls.Add(this.txtSer_1);
             this.groupPanel1.Controls.Add(this.labelX4);
             this.groupPanel1.Controls.Add(this.btnPrint);
             this.groupPanel1.Controls.Add(this.labelX3);
@@ -79,6 +87,48 @@
             this.groupPanel1.Style.TextColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
             this.groupPanel1.Style.TextLineAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Near;
             this.groupPanel1.Click += new System.EventHandler(this.groupPanel1_Click);
+            // 
+            // buttonX2
+            // 
+            resources.ApplyResources(this.buttonX2, "buttonX2");
+            this.buttonX2.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.buttonX2.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.buttonX2.Image = global::Report_Pro.Properties.Resources.printer_icon;
+            this.buttonX2.ImagePosition = DevComponents.DotNetBar.eImagePosition.Top;
+            this.buttonX2.Name = "buttonX2";
+            this.buttonX2.Click += new System.EventHandler(this.buttonX2_Click);
+            // 
+            // buttonX1
+            // 
+            resources.ApplyResources(this.buttonX1, "buttonX1");
+            this.buttonX1.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.buttonX1.Image = global::Report_Pro.Properties.Resources.save_Icon;
+            this.buttonX1.ImagePosition = DevComponents.DotNetBar.eImagePosition.Top;
+            this.buttonX1.Name = "buttonX1";
+            this.buttonX1.Click += new System.EventHandler(this.buttonX1_Click);
+            // 
+            // labelX6
+            // 
+            resources.ApplyResources(this.labelX6, "labelX6");
+            this.labelX6.BackColor = System.Drawing.Color.Transparent;
+            this.labelX6.Name = "labelX6";
+            this.labelX6.Click += new System.EventHandler(this.labelX6_Click);
+            // 
+            // txtSer_1
+            // 
+            resources.ApplyResources(this.txtSer_1, "txtSer_1");
+            // 
+            // 
+            // 
+            this.txtSer_1.Border.Class = "TextBoxBorder";
+            this.txtSer_1.ButtonCustom.DisplayPosition = ((int)(resources.GetObject("txtSer_1.ButtonCustom.DisplayPosition")));
+            this.txtSer_1.ButtonCustom.Image = ((System.Drawing.Image)(resources.GetObject("txtSer_1.ButtonCustom.Image")));
+            this.txtSer_1.ButtonCustom.Text = resources.GetString("txtSer_1.ButtonCustom.Text");
+            this.txtSer_1.ButtonCustom2.DisplayPosition = ((int)(resources.GetObject("txtSer_1.ButtonCustom2.DisplayPosition")));
+            this.txtSer_1.ButtonCustom2.Image = ((System.Drawing.Image)(resources.GetObject("txtSer_1.ButtonCustom2.Image")));
+            this.txtSer_1.ButtonCustom2.Text = resources.GetString("txtSer_1.ButtonCustom2.Text");
+            this.txtSer_1.Name = "txtSer_1";
             // 
             // labelX4
             // 
@@ -198,5 +248,9 @@
         private DevComponents.DotNetBar.Controls.TextBoxX txtSer;
         private DevComponents.DotNetBar.ButtonX btnPrint;
         private DevComponents.DotNetBar.LabelX labelX4;
+        private DevComponents.DotNetBar.Controls.TextBoxX txtSer_1;
+        private DevComponents.DotNetBar.LabelX labelX6;
+        private DevComponents.DotNetBar.ButtonX buttonX2;
+        private DevComponents.DotNetBar.ButtonX buttonX1;
     }
 }

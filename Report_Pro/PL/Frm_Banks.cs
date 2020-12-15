@@ -238,13 +238,13 @@ namespace Report_Pro.PL
 
             if (BID.Text.Trim() == string.Empty)
             {
-                BID.ErrorText = "برجاء ادخال اسم التسلسل";
+               
                 return;
             }
 
             if (BNameA.Text.Trim() == string.Empty)
             {
-                BNameA.ErrorText = "برجاء ادخال اسم البنك";
+               
                 return;
             }
 
