@@ -2657,3 +2657,4 @@ C:\Users\waled\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\ar-EG\Report_P
 C:\Users\waled\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\en-US\Report_Pro.resources.dll
 C:\Users\waled\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\ar-DZ\Report_Pro.resources.dll
 C:\Users\waled\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.csproj.CopyComplete
+C:\Users\walid\Downloads\My-Github\ReportPro\Report_Pro\obj\Debug\Report_Pro.csprojAssemblyReference.cache

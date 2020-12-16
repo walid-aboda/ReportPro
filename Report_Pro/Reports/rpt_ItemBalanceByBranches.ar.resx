@@ -117,8 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="xrTableCell7.Weight" type="System.Double, mscorlib">
+    <value>2.2953283240161388</value>
+  </data>
+  <data name="xrTableCell8.Weight" type="System.Double, mscorlib">
+    <value>1.1103934100954729</value>
+  </data>
+  <data name="xrTableCell9.Weight" type="System.Double, mscorlib">
+    <value>1.0879790884762586</value>
+  </data>
+  <data name="xrTableCell10.Weight" type="System.Double, mscorlib">
+    <value>1.1112119224969037</value>
+  </data>
+  <data name="xrTableCell21.Weight" type="System.Double, mscorlib">
+    <value>1.1105697967220947</value>
+  </data>
   <data name="xrLabel1.Text" xml:space="preserve">
     <value>رصيد صنف موزع بالفروع</value>
+  </data>
+  <assembly alias="DevExpress.Data.v19.1" name="DevExpress.Data.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="xrTable6.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Data.v19.1">
+    <value>1348.17847, 146.63887</value>
   </data>
   <data name="xrTableCell39.Text" xml:space="preserve">
     <value>الوحدة</value>
@@ -129,7 +149,6 @@
   <data name="xrTableCell15.Text" xml:space="preserve">
     <value>تكلفة الوحدة</value>
   </data>
-  <assembly alias="DevExpress.Data.v19.1" name="DevExpress.Data.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
   <data name="xrTable5.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Data.v19.1">
     <value>66.41665, 136.055511</value>
   </data>
@@ -145,18 +164,23 @@
   <data name="xrTableCell12.Text" xml:space="preserve">
     <value>الاجمالي</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="xrTableCell12.Weight" type="System.Double, mscorlib">
-    <value>3.2619081600442041</value>
+    <value>2.7705577367107734</value>
   </data>
   <data name="xrTableCell17.Weight" type="System.Double, mscorlib">
-    <value>0.8994285183902504</value>
+    <value>1.0399841197597008</value>
   </data>
   <data name="xrTableCell18.Weight" type="System.Double, mscorlib">
-    <value>0.90469287039759128</value>
+    <value>1.0189902908219515</value>
   </data>
   <data name="xrTableCell19.Weight" type="System.Double, mscorlib">
-    <value>0.90119624042025481</value>
+    <value>1.0407486399428414</value>
+  </data>
+  <data name="xrTableCell22.Weight" type="System.Double, mscorlib">
+    <value>1.0401497610170793</value>
+  </data>
+  <data name="ReportFooter.HeightF" type="System.Single, mscorlib">
+    <value>158.75</value>
   </data>
   <data name="xrTableCell1.Text" xml:space="preserve">
     <value>كود الفرع</value>
@@ -164,13 +188,28 @@
   <data name="xrTableCell2.Text" xml:space="preserve">
     <value>اسم الفرع</value>
   </data>
+  <data name="xrTableCell2.Weight" type="System.Double, mscorlib">
+    <value>2.1466197158221161</value>
+  </data>
   <data name="xrTableCell3.Text" xml:space="preserve">
     <value>الرصيد</value>
+  </data>
+  <data name="xrTableCell3.Weight" type="System.Double, mscorlib">
+    <value>1.0545738696809692</value>
   </data>
   <data name="xrTableCell4.Text" xml:space="preserve">
     <value>الوزن الاجمالي</value>
   </data>
+  <data name="xrTableCell4.Weight" type="System.Double, mscorlib">
+    <value>1.03328552277036</value>
+  </data>
   <data name="xrTableCell5.Text" xml:space="preserve">
     <value>التكلفة الاجمالية</value>
+  </data>
+  <data name="xrTableCell5.Weight" type="System.Double, mscorlib">
+    <value>1.0553491215089206</value>
+  </data>
+  <data name="xrTableCell20.Text" xml:space="preserve">
+    <value>متوسط المبيعات الشهري</value>
   </data>
 </root>

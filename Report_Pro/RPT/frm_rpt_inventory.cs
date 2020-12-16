@@ -203,7 +203,8 @@ namespace Report_Pro.RPT
 
         private void frm_rpt_inventory_Load(object sender, EventArgs e)
         {
-
+            dTP1.Value = new DateTime(DateTime.Now.Year, 1, 1);
+            dTP2.Value = DateTime.Today;
         }
 
         private void groupPanel2_Click(object sender, EventArgs e)
@@ -274,6 +275,11 @@ namespace Report_Pro.RPT
 
         }
 
+        private void cmb_DimCategory_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void btn_stockByBranch_Click(object sender, EventArgs e)
         {
             choises();
@@ -285,25 +291,35 @@ namespace Report_Pro.RPT
             DataTable dt1 = new DataTable();
 
             //dt1 = dal.getDataTabl("get_inventory_", dTP2.Value.Date, Convert.ToString(category.SelectedValue), dal.db1);
-            dt1 = dal.getDataTabl_1(@"SELECT d.Branch_code,B.branch_name,A.item_no,A.descr,a.Descr_eng,A.group_code,G.Group_name,a.Category,A.Weight,a.UnitDepth,a.local_cost,A.Unit,t2.COST_PRICE,
-            a.Dim_category, round(sum(D.QTY_ADD - D.QTY_TAKE), 2) as balance, sum(D.QTY_ADD - D.QTY_TAKE) * a.local_cost as cost
-            FROM wh_material_transaction As D 
-            inner join wh_BRANCHES as B on B.branch_code = D.Branch_code
-            inner join wh_main_master As A on A.item_no = D.ITEM_NO 
-            inner join wh_Groups As G on g.group_code = a.group_code 
-            inner join(select ITEM_NO, COST_PRICE from(select *, ROW_NUMBER() OVER(PARTITION BY item_no ORDER BY G_DATE DESC) AS DuplicateCount 
-            FROM wh_MATERIAL_TRANSACTION  where cast(G_DATE as date) <= '" +
-            dTP2.Value.ToString("yyyy/MM/dd") + "') as t1 where DuplicateCount = 1) as t2 on t2.ITEM_NO = a.item_no " +
-            "where cast(D.G_date as date) <= '" + dTP2.Value.ToString("yyyy/MM/dd") + "' and D.cyear = '" + dTP2.Value.ToString("yy") + "' " +
-            "and A.Category in('" + R + "','" + F + "','" + C + "','" + P + "','" + S + "','" + Z + "','" + X + "')  and   D.branch_code like " +
-            " (CASE WHEN '" + Branch.ID.Text + "' !=''  then  '" + Branch.ID.Text + "%' else  '" + Branch.ID.Text + "%' end) and A.group_code like '" + Group.ID.Text +
-            "%' and  A.item_no = '" + Item.ID.Text + "' and ISNULL (A.UnitDepth,'') between '" + T1 + "' and '" + T2 + "'  " +
-            "group by A.item_no, A.descr, a.Descr_eng, A.group_code, G.Group_name, a.Category, A.Weight, a.UnitDepth,A.Unit, a.local_cost, a.Dim_category, t2.COST_PRICE,d.Branch_code,B.branch_name order by A.item_no");
+            dt1 = dal.getDataTabl_1(@"	SELECT d.Branch_code
+		,B.branch_name
+		,sum (case when cast(D.G_date as date) <= '"+dTP2.Value.ToString("yyyy/MM/dd")+ "' and D.cyear = '" + dTP2.Value.ToString("yy") + "' then D.QTY_ADD-D.QTY_TAKE  else 0 end)  as Balance_ "+
+        ", sum (case when cast(D.G_date as date) <= '"+dTP2.Value.ToString("yyyy/MM/dd")+"' and D.cyear = '" + dTP2.Value.ToString("yy") + "' then ((D.QTY_ADD - D.QTY_TAKE) * a.Weight)  else 0 end)  as weight_ "+
+		",sum (case when cast(D.G_date as date) <= '"+dTP2.Value.ToString("yyyy/MM/dd")+"' and D.cyear = '" + dTP2.Value.ToString("yy") + "' then ((D.QTY_ADD - D.QTY_TAKE) * a.local_cost)  else 0 end)  as cost "+
+		",sum (case when D.TRANSACTION_CODE  like'Xp%' and  cast(D.G_date as date) between '"+dTP1.Value.ToString("yyyy/MM/dd")+"' and '"+dTP2.Value.ToString("yyyy/MM/dd")+"' then D.QTY_ADD-D.QTY_TAKE  else 0 end)  as Purchases_ "+
+        ",sum (case when D.TRANSACTION_CODE  like'XS%' and  cast(D.G_date as date) between '"+dTP1.Value.ToString("yyyy/MM/dd")+"' and '"+dTP2.Value.ToString("yyyy/MM/dd")+"' then D.QTY_TAKE-D.QTY_ADD  else 0 end)  as Sales_ "+
+		"FROM wh_material_transaction As D inner join wh_BRANCHES as B on B.branch_code = D.Branch_code "+
+		"inner join wh_main_master As A on A.item_no = D.ITEM_NO inner join wh_Groups As G on g.group_code = a.group_code "+
+		"and  A.item_no = '"+Item.ID.Text+"' group by d.Branch_code,B.branch_name order by d.Branch_code");
+            //dt1 = dal.getDataTabl_1(@"SELECT d.Branch_code,B.branch_name,A.item_no,A.descr,a.Descr_eng,A.group_code,G.Group_name,a.Category,A.Weight,a.UnitDepth,a.local_cost,A.Unit,t2.COST_PRICE,
+            //a.Dim_category, round(sum(D.QTY_ADD - D.QTY_TAKE), 2) as balance, sum(D.QTY_ADD - D.QTY_TAKE) * a.local_cost as cost
+            //FROM wh_material_transaction As D 
+            //inner join wh_BRANCHES as B on B.branch_code = D.Branch_code
+            //inner join wh_main_master As A on A.item_no = D.ITEM_NO 
+            //inner join wh_Groups As G on g.group_code = a.group_code 
+            //inner join(select ITEM_NO, COST_PRICE from(select *, ROW_NUMBER() OVER(PARTITION BY item_no ORDER BY G_DATE DESC) AS DuplicateCount 
+            //FROM wh_MATERIAL_TRANSACTION  where cast(G_DATE as date) <= '" +
+            //dTP2.Value.ToString("yyyy/MM/dd") + "') as t1 where DuplicateCount = 1) as t2 on t2.ITEM_NO = a.item_no " +
+            //"where cast(D.G_date as date) <= '" + dTP2.Value.ToString("yyyy/MM/dd") + "' and D.cyear = '" + dTP2.Value.ToString("yy") + "' " +
+            //"and A.Category in('" + R + "','" + F + "','" + C + "','" + P + "','" + S + "','" + Z + "','" + X + "')  and   D.branch_code like " +
+            //" (CASE WHEN '" + Branch.ID.Text + "' !=''  then  '" + Branch.ID.Text + "%' else  '" + Branch.ID.Text + "%' end) and A.group_code like '" + Group.ID.Text +
+            //"%' and  A.item_no = '" + Item.ID.Text + "' and ISNULL (A.UnitDepth,'') between '" + T1 + "' and '" + T2 + "'  " +
+            //"group by A.item_no, A.descr, a.Descr_eng, A.group_code, G.Group_name, a.Category, A.Weight, a.UnitDepth,A.Unit, a.local_cost, a.Dim_category, t2.COST_PRICE,d.Branch_code,B.branch_name order by A.item_no");
 
             ds.Tables.Add(dt1);
             Reports.rpt_ItemBalanceByBranches rpt = new Reports.rpt_ItemBalanceByBranches();
             rpt.DataSource = ds;
-            //ds.WriteXmlSchema("schema_rpt.xml");
+            ds.WriteXmlSchema("schema_rpt.xml");
             rpt.ShowPreview();
             if (Properties.Settings.Default.lungh == "0")
             {
@@ -317,7 +333,13 @@ namespace Report_Pro.RPT
                 rpt.RightToLeftLayout = DevExpress.XtraReports.UI.RightToLeftLayout.No;
                 rpt.pram1.Value = 1;
             }
-            rpt.lbl_Date.Text = dTP2.Value.ToShortDateString();
+            
+            rpt.lbl_Date.Text = dTP1.Value.ToShortDateString();
+            rpt.lbl_ToDate.Text = dTP2.Value.ToShortDateString();
+            rpt.lbl_ItemCode.Text = Item.ID.Text;
+            rpt.lbl_ItemDescription.Text = Item.Desc.Text;
+            rpt.noOfDays.Value = System.Data.Linq.SqlClient.SqlMethods.DateDiffDay(dTP1.Value, dTP2.Value);
+
             Cursor.Current = Cursors.Default;
 
         }

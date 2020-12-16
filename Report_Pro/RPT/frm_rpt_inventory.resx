@@ -120,25 +120,27 @@
   <data name="&gt;&gt;labelX2.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="thick_2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chC.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
   </data>
   <data name="dTP2.MonthCalendar.Text" xml:space="preserve">
     <value />
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="buttonX4.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="&gt;&gt;chC.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
+  <data name="&gt;&gt;labelX1.Parent" xml:space="preserve">
+    <value>panelEx1</value>
+  </data>
   <data name="chX.TabIndex" type="System.Int32, mscorlib">
     <value>48</value>
   </data>
   <data name="&gt;&gt;buttonX6.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="dTP2.MonthCalendar.Tooltip" xml:space="preserve">
     <value />
@@ -150,6 +152,10 @@
   <data name="buttonX5.Text" xml:space="preserve">
     <value>Total Inventory List</value>
   </data>
+  <data name="dTP1.MonthCalendar.Description" xml:space="preserve">
+    <value />
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="cmb_DimCategory.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
@@ -158,6 +164,9 @@
   </data>
   <data name="&gt;&gt;labelX6.Parent" xml:space="preserve">
     <value>panelEx1</value>
+  </data>
+  <data name="dTP2.MonthCalendar.Description" xml:space="preserve">
+    <value />
   </data>
   <data name="groupPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -174,17 +183,17 @@
   <data name="&gt;&gt;labelX7.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <data name="&gt;&gt;buttonX5.Parent" xml:space="preserve">
-    <value>panelEx1</value>
-  </data>
   <data name="&gt;&gt;groupPanel2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="chZ.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="&gt;&gt;labelX4.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  </data>
+  <data name="labelX1.Text" xml:space="preserve">
+    <value>From Date</value>
   </data>
   <data name="btnReport.Location" type="System.Drawing.Point, System.Drawing">
     <value>695, 96</value>
@@ -196,10 +205,10 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;labelX4.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>24</value>
   </data>
   <data name="labelX5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>366, 58</value>
+    <value>48, 202</value>
   </data>
   <data name="&gt;&gt;buttonX1.Parent" xml:space="preserve">
     <value>panelEx1</value>
@@ -207,14 +216,17 @@
   <data name="chX.Text" xml:space="preserve">
     <value>Secrap</value>
   </data>
+  <data name="labelX1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="labelX3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="chP.TabIndex" type="System.Int32, mscorlib">
     <value>46</value>
   </data>
-  <data name="&gt;&gt;labelX5.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  <data name="labelX5.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
   </data>
   <data name="&gt;&gt;buttonX3.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
@@ -225,44 +237,50 @@
   <data name="panelEx1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
-  <data name="&gt;&gt;buttonX2.Name" xml:space="preserve">
-    <value>buttonX2</value>
-  </data>
-  <data name="buttonX5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+  <data name="groupPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>478, 157</value>
   </data>
   <data name="btn_stockByBranch.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="&gt;&gt;labelX5.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>21</value>
   </data>
   <data name="groupPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 251</value>
+    <value>170, 324</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>تقرير المخزون</value>
+  <data name="dTP1.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;cmb_DimCategory.Name" xml:space="preserve">
+    <value>cmb_DimCategory</value>
+  </data>
+  <data name="dTP1.MonthCalendar.MonthlyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP1.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="Group.Size" type="System.Drawing.Size, System.Drawing">
     <value>480, 31</value>
   </data>
-  <data name="groupPanel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>478, 157</value>
-  </data>
-  <data name="dTP2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 57</value>
-  </data>
   <data name="labelX7.TabIndex" type="System.Int32, mscorlib">
     <value>40</value>
   </data>
-  <data name="&gt;&gt;buttonX3.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="buttonX1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="chZ.Location" type="System.Drawing.Point, System.Drawing">
+    <value>79, 54</value>
   </data>
   <data name="labelX4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="chP.Text" xml:space="preserve">
     <value>S. Parts</value>
+  </data>
+  <data name="dTP1.MonthCalendar.WeeklyMarkedDays" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAAAAAAAAMQU3lzdGVtLkRheU9mV2Vlaws=</value>
   </data>
   <data name="chP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
@@ -294,11 +312,20 @@
   <data name="chS.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
+  <data name="dTP1.MonthCalendar.DayNames" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
   <data name="chR.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="labelX4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>42, 24</value>
+  <data name="labelX1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="dTP1.MonthCalendar.Category" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;chZ.Parent" xml:space="preserve">
+    <value>groupPanel2</value>
   </data>
   <data name="buttonX2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -420,7 +447,7 @@
     <value>True</value>
   </data>
   <data name="&gt;&gt;Branch.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>13</value>
   </data>
   <data name="&gt;&gt;buttonX4.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
@@ -437,14 +464,14 @@
   <data name="&gt;&gt;Group.Name" xml:space="preserve">
     <value>Group</value>
   </data>
-  <data name="&gt;&gt;thick_2.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
   <data name="&gt;&gt;thick_2.Name" xml:space="preserve">
     <value>thick_2</value>
   </data>
-  <data name="labelX8.Text" xml:space="preserve">
-    <value>To Thickness</value>
+  <data name="dTP1.ButtonFreeText.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="labelX1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 24</value>
   </data>
   <data name="&gt;&gt;cmb_DimCategory.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -452,23 +479,32 @@
   <data name="&gt;&gt;labelX8.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <data name="&gt;&gt;chF.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  <data name="&gt;&gt;labelX1.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="chF.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
-  <data name="cmb_DimCategory.Location" type="System.Drawing.Point, System.Drawing">
-    <value>486, 57</value>
+  <data name="dTP1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
-  <data name="btn_stockByBranch.Text" xml:space="preserve">
-    <value>Item Balance By Branches</value>
+  <data name="cmb_DimCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 201</value>
+  </data>
+  <data name="labelX7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 235</value>
+  </data>
+  <data name="&gt;&gt;buttonX2.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="&gt;&gt;Branch.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <data name="chZ.Location" type="System.Drawing.Point, System.Drawing">
-    <value>79, 54</value>
+  <data name="labelX1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 267</value>
+  </data>
+  <data name="buttonX5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="chC.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -476,14 +512,17 @@
   <data name="Group.Location" type="System.Drawing.Point, System.Drawing">
     <value>168, 127</value>
   </data>
-  <data name="&gt;&gt;thick_1.Name" xml:space="preserve">
-    <value>thick_1</value>
+  <data name="labelX3.Text" xml:space="preserve">
+    <value>Item</value>
   </data>
   <data name="dTP2.MonthCalendar.DayNames" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>DevExpress.XtraEditors.XtraForm, DevExpress.Utils.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  <data name="&gt;&gt;thick_2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;labelX1.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="dTP2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -491,8 +530,11 @@
   <data name="buttonX4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
+  <data name="&gt;&gt;dTP1.Type" xml:space="preserve">
+    <value>DevComponents.Editors.DateTimeAdv.DateTimeInput, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  </data>
   <data name="&gt;&gt;buttonX4.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>8</value>
   </data>
   <data name="&gt;&gt;groupPanel2.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.Controls.GroupPanel, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
@@ -631,6 +673,9 @@
   <data name="chR.TabIndex" type="System.Int32, mscorlib">
     <value>42</value>
   </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.XtraForm, DevExpress.Utils.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
   <data name="buttonX3.Location" type="System.Drawing.Point, System.Drawing">
     <value>695, 282</value>
   </data>
@@ -638,10 +683,13 @@
     <value>6, 6, 6, 6</value>
   </data>
   <data name="&gt;&gt;thick_1.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>9</value>
   </data>
-  <data name="&gt;&gt;chF.Name" xml:space="preserve">
-    <value>chF</value>
+  <data name="&gt;&gt;labelX6.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="labelX4.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
   </data>
   <data name="Group.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -655,6 +703,9 @@
   <data name="chF.Location" type="System.Drawing.Point, System.Drawing">
     <value>188, 19</value>
   </data>
+  <data name="dTP1.MonthCalendar.Tooltip" xml:space="preserve">
+    <value />
+  </data>
   <data name="&gt;&gt;panelEx1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -662,10 +713,16 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="&gt;&gt;labelX7.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="&gt;&gt;panelEx1.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="dTP1.ButtonDropDown.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;labelX1.Name" xml:space="preserve">
+    <value>labelX1</value>
   </data>
   <data name="&gt;&gt;panelEx1.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.PanelEx, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
@@ -674,7 +731,10 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1000, 520</value>
+    <value>1000, 600</value>
+  </data>
+  <data name="dTP1.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="chZ.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -682,20 +742,11 @@
   <data name="&gt;&gt;groupPanel2.Name" xml:space="preserve">
     <value>groupPanel2</value>
   </data>
-  <data name="&gt;&gt;labelX8.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
-  </data>
-  <data name="labelX5.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
-  </data>
   <data name="labelX7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
-  <data name="chP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>188, 54</value>
-  </data>
   <data name="&gt;&gt;buttonX2.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>12</value>
   </data>
   <data name="&gt;&gt;labelX6.Name" xml:space="preserve">
     <value>labelX6</value>
@@ -813,20 +864,23 @@
         JFsp0okHsh4AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="labelX4.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
+  <data name="&gt;&gt;thick_2.Parent" xml:space="preserve">
+    <value>panelEx1</value>
   </data>
-  <data name="dTP2.MonthCalendar.Category" xml:space="preserve">
-    <value />
+  <data name="chC.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
   </data>
-  <data name="labelX7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>36, 204</value>
+  <data name="buttonX6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>695, 467</value>
   </data>
   <data name="&gt;&gt;dTP2.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>23</value>
   </data>
   <data name="btnReport.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
+  </data>
+  <data name="&gt;&gt;thick_1.Name" xml:space="preserve">
+    <value>thick_1</value>
   </data>
   <data name="labelX2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -834,8 +888,11 @@
   <data name="chX.Location" type="System.Drawing.Point, System.Drawing">
     <value>325, 89</value>
   </data>
-  <data name="&gt;&gt;dTP2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;buttonX5.Parent" xml:space="preserve">
     <value>panelEx1</value>
+  </data>
+  <data name="dTP2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>480, 266</value>
   </data>
   <data name="dTP2.ButtonClear.Text" xml:space="preserve">
     <value />
@@ -858,6 +915,9 @@
   <data name="buttonX3.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
+  <data name="dTP1.MonthCalendar.MarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
   <data name="&gt;&gt;buttonX1.Name" xml:space="preserve">
     <value>buttonX1</value>
   </data>
@@ -865,7 +925,7 @@
     <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="panelEx1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>990, 481</value>
+    <value>990, 561</value>
   </data>
   <data name="chS.Size" type="System.Drawing.Size, System.Drawing">
     <value>58, 24</value>
@@ -889,7 +949,7 @@
     <value>buttonX6</value>
   </data>
   <data name="&gt;&gt;labelX2.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>16</value>
   </data>
   <data name="chR.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
@@ -906,14 +966,14 @@
   <data name="dTP2.ButtonDropDown.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
+  <data name="dTP1.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
   <data name="dTP2.MonthCalendar.MarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
   </data>
-  <data name="chC.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
-  </data>
   <data name="&gt;&gt;labelX3.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>14</value>
   </data>
   <data name="&gt;&gt;buttonX5.Name" xml:space="preserve">
     <value>buttonX5</value>
@@ -927,35 +987,50 @@
   <data name="panelEx1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="&gt;&gt;chX.Name" xml:space="preserve">
-    <value>chX</value>
+  <data name="dTP2.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;Item.ZOrder" xml:space="preserve">
-    <value>16</value>
+  <data name="&gt;&gt;chF.Name" xml:space="preserve">
+    <value>chF</value>
   </data>
-  <data name="&gt;&gt;chZ.Parent" xml:space="preserve">
-    <value>groupPanel2</value>
-  </data>
-  <data name="chR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>343, 19</value>
+  <data name="&gt;&gt;dTP1.Name" xml:space="preserve">
+    <value>dTP1</value>
   </data>
   <data name="&gt;&gt;labelX2.Name" xml:space="preserve">
     <value>labelX2</value>
   </data>
+  <data name="&gt;&gt;Item.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="buttonX2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="chR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 19</value>
+  </data>
+  <data name="&gt;&gt;labelX8.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  </data>
+  <data name="dTP1.MonthCalendar.AnnuallyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
   <data name="chC.Size" type="System.Drawing.Size, System.Drawing">
     <value>113, 24</value>
   </data>
-  <data name="thick_2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>449, 203</value>
+  <data name="labelX7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;thick_2.Parent" xml:space="preserve">
-    <value>panelEx1</value>
+  <data name="buttonX6.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
   </data>
   <data name="btn_stockByBranch.Size" type="System.Drawing.Size, System.Drawing">
     <value>256, 54</value>
   </data>
+  <data name="dTP1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 266</value>
+  </data>
   <data name="&gt;&gt;labelX8.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="labelX3.Location" type="System.Drawing.Point, System.Drawing">
     <value>115, 168</value>
@@ -972,8 +1047,8 @@
   <data name="&gt;&gt;Item.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <data name="&gt;&gt;buttonX5.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  <data name="chP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 54</value>
   </data>
   <data name="&gt;&gt;buttonX2.Parent" xml:space="preserve">
     <value>panelEx1</value>
@@ -988,7 +1063,7 @@
     <value>480, 31</value>
   </data>
   <data name="btnReport.Text" xml:space="preserve">
-    <value>Total Stock  By Branches</value>
+    <value>Stock  By Branches</value>
   </data>
   <data name="dTP2.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1017,17 +1092,26 @@
   <data name="&gt;&gt;buttonX3.Name" xml:space="preserve">
     <value>buttonX3</value>
   </data>
-  <data name="&gt;&gt;chX.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  <data name="labelX1.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="dTP1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 27</value>
   </data>
   <data name="btn_stockByBranch.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="&gt;&gt;Group.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>20</value>
   </data>
   <data name="&gt;&gt;buttonX5.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
+  </data>
+  <data name="buttonX6.Text" xml:space="preserve">
+    <value>Total Stock By Branch</value>
+  </data>
+  <data name="dTP1.ButtonClear.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;labelX8.Name" xml:space="preserve">
     <value>labelX8</value>
@@ -1148,14 +1232,11 @@
         JFsp0okHsh4AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="&gt;&gt;labelX6.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
   <data name="chP.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="labelX4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>115, 58</value>
+    <value>409, 267</value>
   </data>
   <data name="buttonX3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1276,6 +1357,9 @@
   <data name="&gt;&gt;chF.Parent" xml:space="preserve">
     <value>groupPanel2</value>
   </data>
+  <data name="&gt;&gt;chF.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  </data>
   <data name="chP.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1285,17 +1369,32 @@
   <data name="&gt;&gt;btn_stockByBranch.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
+  <data name="dTP1.ButtonDropDown.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.CommandParameter" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;dTP2.Parent" xml:space="preserve">
+    <value>panelEx1</value>
+  </data>
   <data name="labelX7.Text" xml:space="preserve">
     <value>From Thickness</value>
+  </data>
+  <data name="dTP1.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="&gt;&gt;chS.Name" xml:space="preserve">
     <value>chS</value>
   </data>
-  <data name="buttonX1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+  <data name="&gt;&gt;buttonX3.ZOrder" xml:space="preserve">
+    <value>10</value>
   </data>
-  <data name="buttonX6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 392</value>
+  <data name="dTP1.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="labelX8.Text" xml:space="preserve">
+    <value>To Thickness</value>
   </data>
   <data name="buttonX2.Text" xml:space="preserve">
     <value>Stock  By Main Store And Branches _ Items</value>
@@ -1312,8 +1411,8 @@
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frm_rpt_inventory</value>
   </data>
-  <data name="labelX3.Text" xml:space="preserve">
-    <value>Item</value>
+  <data name="&gt;&gt;chP.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;chR.Name" xml:space="preserve">
     <value>chR</value>
@@ -1461,8 +1560,8 @@
   <data name="chF.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="&gt;&gt;cmb_DimCategory.Name" xml:space="preserve">
-    <value>cmb_DimCategory</value>
+  <data name="&gt;&gt;chX.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="&gt;&gt;chC.Parent" xml:space="preserve">
     <value>groupPanel2</value>
@@ -1471,7 +1570,7 @@
     <value>WIP</value>
   </data>
   <data name="&gt;&gt;btn_stockByBranch.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>15</value>
   </data>
   <data name="&gt;&gt;buttonX3.Parent" xml:space="preserve">
     <value>panelEx1</value>
@@ -1479,11 +1578,14 @@
   <data name="cmb_DimCategory.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>
+  <data name="dTP1.MonthCalendar.Tag" xml:space="preserve">
+    <value />
+  </data>
   <data name="dTP2.ButtonFreeText.Text" xml:space="preserve">
     <value />
   </data>
   <data name="&gt;&gt;cmb_DimCategory.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>22</value>
   </data>
   <data name="chF.Size" type="System.Drawing.Size, System.Drawing">
     <value>84, 24</value>
@@ -1491,14 +1593,23 @@
   <data name="&gt;&gt;panelEx1.Name" xml:space="preserve">
     <value>panelEx1</value>
   </data>
+  <data name="dTP2.MonthCalendar.Category" xml:space="preserve">
+    <value />
+  </data>
   <data name="labelX8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="labelX5.Text" xml:space="preserve">
     <value>Materials Type</value>
   </data>
+  <data name="&gt;&gt;buttonX2.Name" xml:space="preserve">
+    <value>buttonX2</value>
+  </data>
   <data name="dTP2.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
+  </data>
+  <data name="&gt;&gt;buttonX5.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="dTP2.MonthCalendar.AnnuallyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
@@ -1512,9 +1623,6 @@
   <data name="buttonX1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;dTP2.Name" xml:space="preserve">
-    <value>dTP2</value>
-  </data>
   <data name="&gt;&gt;buttonX1.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
@@ -1524,11 +1632,8 @@
   <data name="thick_1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
-  <data name="buttonX2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="dTP2.MonthCalendar.Description" xml:space="preserve">
-    <value />
+  <data name="thick_2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="&gt;&gt;Group.Parent" xml:space="preserve">
     <value>panelEx1</value>
@@ -1542,14 +1647,20 @@
   <data name="dTP2.MonthCalendar.MonthlyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
   </data>
-  <data name="chC.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="thick_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>562, 234</value>
   </data>
   <data name="chZ.Size" type="System.Drawing.Size, System.Drawing">
     <value>76, 24</value>
   </data>
+  <data name="dTP1.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
   <data name="buttonX4.Size" type="System.Drawing.Size, System.Drawing">
     <value>256, 54</value>
+  </data>
+  <data name="dTP1.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="thick_2.Size" type="System.Drawing.Size, System.Drawing">
     <value>86, 27</value>
@@ -1557,17 +1668,17 @@
   <data name="chC.Location" type="System.Drawing.Point, System.Drawing">
     <value>42, 19</value>
   </data>
-  <data name="&gt;&gt;buttonX2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
-  </data>
-  <data name="&gt;&gt;chP.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;dTP2.Name" xml:space="preserve">
+    <value>dTP2</value>
   </data>
   <data name="cmb_DimCategory.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 27</value>
+    <value>480, 27</value>
   </data>
   <data name="&gt;&gt;chZ.Type" xml:space="preserve">
     <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+  </data>
+  <data name="&gt;&gt;labelX5.Type" xml:space="preserve">
+    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.0.0.0, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
   </data>
   <data name="dTP2.ButtonClear.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -1588,7 +1699,7 @@
     <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnReport.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>19</value>
   </data>
   <data name="&gt;&gt;Item.Type" xml:space="preserve">
     <value>Report_Pro.MyControls.UC_Items, Report_Pro, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
@@ -1598,6 +1709,9 @@
   </data>
   <data name="thick_2.TabIndex" type="System.Int32, mscorlib">
     <value>39</value>
+  </data>
+  <data name="buttonX6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>256, 54</value>
   </data>
   <data name="&gt;&gt;btn_stockByBranch.Name" xml:space="preserve">
     <value>btn_stockByBranch</value>
@@ -1615,7 +1729,7 @@
     <value>105, 130</value>
   </data>
   <data name="thick_1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 203</value>
+    <value>170, 234</value>
   </data>
   <data name="&gt;&gt;thick_1.Type" xml:space="preserve">
     <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1630,7 +1744,10 @@
     <value>34</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>990, 481</value>
+    <value>990, 561</value>
+  </data>
+  <data name="dTP1.ButtonClear.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="dTP2.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
@@ -1640,6 +1757,9 @@
   </data>
   <data name="&gt;&gt;chZ.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>تقرير المخزون</value>
   </data>
   <data name="labelX8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -1663,7 +1783,7 @@
     <value>114, 24</value>
   </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1000, 520</value>
+    <value>1000, 600</value>
   </data>
   <data name="buttonX2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -1671,11 +1791,20 @@
   <data name="labelX3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
+  <data name="labelX4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 24</value>
+  </data>
+  <data name="dTP1.ButtonFreeText.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP1.MonthCalendar.Text" xml:space="preserve">
+    <value />
+  </data>
   <data name="buttonX2.Size" type="System.Drawing.Size, System.Drawing">
     <value>256, 54</value>
   </data>
   <data name="labelX4.Text" xml:space="preserve">
-    <value>Date</value>
+    <value>To Date</value>
   </data>
   <data name="&gt;&gt;chR.Parent" xml:space="preserve">
     <value>groupPanel2</value>
@@ -1688,6 +1817,9 @@
   </data>
   <data name="labelX7.Size" type="System.Drawing.Size, System.Drawing">
     <value>121, 24</value>
+  </data>
+  <data name="&gt;&gt;dTP1.Parent" xml:space="preserve">
+    <value>panelEx1</value>
   </data>
   <data name="buttonX2.Location" type="System.Drawing.Point, System.Drawing">
     <value>695, 220</value>
@@ -1711,7 +1843,7 @@
     <value>chZ</value>
   </data>
   <data name="&gt;&gt;buttonX1.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>17</value>
   </data>
   <data name="dTP2.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1722,8 +1854,8 @@
   <data name="buttonX1.Text" xml:space="preserve">
     <value>Total Stock </value>
   </data>
-  <data name="dTP2.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="dTP1.ButtonFreeText.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="&gt;&gt;chX.Parent" xml:space="preserve">
     <value>groupPanel2</value>
@@ -1843,9 +1975,6 @@
         /2uARiyTZLfWiR6eQfIX6TrKG+i62+Xb/H8hkD8jiN0pPXiCBtZTqZdfTUOhWIJZSMdT5D/rZLnttv8C
         JFsp0okHsh4AAAAASUVORK5CYII=
 </value>
-  </data>
-  <data name="labelX7.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
   </data>
   <data name="labelX3.Size" type="System.Drawing.Size, System.Drawing">
     <value>42, 24</value>
@@ -1975,14 +2104,17 @@
   <data name="&gt;&gt;cmb_DimCategory.Parent" xml:space="preserve">
     <value>panelEx1</value>
   </data>
-  <data name="chC.TabIndex" type="System.Int32, mscorlib">
-    <value>44</value>
+  <data name="&gt;&gt;chX.Name" xml:space="preserve">
+    <value>chX</value>
+  </data>
+  <data name="dTP1.ButtonClear.Text" xml:space="preserve">
+    <value />
   </data>
   <data name="labelX8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>341, 204</value>
+    <value>454, 235</value>
   </data>
-  <data name="buttonX6.TabIndex" type="System.Int32, mscorlib">
-    <value>49</value>
+  <data name="btn_stockByBranch.Text" xml:space="preserve">
+    <value>Item Balance By Branches</value>
   </data>
   <data name="&gt;&gt;chP.Parent" xml:space="preserve">
     <value>groupPanel2</value>
@@ -1992,6 +2124,12 @@
   </data>
   <data name="chR.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 24</value>
+  </data>
+  <data name="&gt;&gt;dTP1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="chC.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="labelX6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>

@@ -13,5 +13,9 @@ namespace Report_Pro.Reports
             InitializeComponent();
         }
 
+        private void ReportHeader_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+        {
+
+        }
     }
 }

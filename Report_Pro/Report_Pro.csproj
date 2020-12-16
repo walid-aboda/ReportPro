@@ -1460,6 +1460,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_ItemBalanceByBranches.resx">
       <DependentUpon>rpt_ItemBalanceByBranches.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_PExpenssBalance.resx">
       <DependentUpon>rpt_PExpenssBalance.cs</DependentUpon>
@@ -1544,6 +1545,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_TotalStockByCategory.resx">
       <DependentUpon>rpt_TotalStockByCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\rpt_PrintInvoices.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PrintInvoices.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="RPT\Supp_AgeReport.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -2325,6 +2330,12 @@
     </Compile>
     <Compile Include="Reports\rpt_TotalStockByCategory.Designer.cs">
       <DependentUpon>rpt_TotalStockByCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPT\rpt_PrintInvoices.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PrintInvoices.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="RPT\Supp_AgeReport.cs">
       <DependentUpon>Supp_AgeReport.rpt</DependentUpon>

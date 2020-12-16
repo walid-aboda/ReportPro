@@ -117,11 +117,102 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dTP1.ButtonClear.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dTP1.ButtonClear.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.ButtonClear.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP1.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP1.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP1.ButtonDropDown.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.ButtonDropDown.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.ButtonFreeText.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP1.ButtonFreeText.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.ButtonFreeText.Text" xml:space="preserve">
+    <value />
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="dTP1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>679, 215</value>
+  </data>
+  <data name="dTP1.MonthCalendar.AnnuallyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP1.MonthCalendar.Category" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.CommandParameter" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.DayNames" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.MarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP1.MonthCalendar.MonthlyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP1.MonthCalendar.Tag" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.Tooltip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP1.MonthCalendar.WeeklyMarkedDays" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAAAAAAAAMQU3lzdGVtLkRheU9mV2Vlaws=</value>
+  </data>
+  <data name="labelX1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>853, 218</value>
+  </data>
+  <data name="labelX1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 24</value>
+  </data>
+  <data name="labelX1.Text" xml:space="preserve">
+    <value>من تاريخ</value>
+  </data>
   <data name="buttonX6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="buttonX6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEsAAAA8CAYAAAAuaUeTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
@@ -235,6 +326,9 @@
         JFsp0okHsh4AAAAASUVORK5CYII=
 </value>
   </data>
+  <data name="buttonX6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 392</value>
+  </data>
   <data name="buttonX6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
@@ -248,7 +342,7 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>467, 145</value>
+    <value>467, 182</value>
   </data>
   <data name="labelX8.Size" type="System.Drawing.Size, System.Drawing">
     <value>86, 24</value>
@@ -311,7 +405,7 @@
     <value>تحت التصنيع</value>
   </data>
   <data name="groupPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>369, 224</value>
+    <value>369, 280</value>
   </data>
   <data name="groupPanel2.Text" xml:space="preserve">
     <value>التصنيف</value>
@@ -320,7 +414,7 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>855, 147</value>
+    <value>855, 182</value>
   </data>
   <data name="labelX7.Size" type="System.Drawing.Size, System.Drawing">
     <value>82, 24</value>
@@ -454,7 +548,7 @@
     <value>Top, Right</value>
   </data>
   <data name="thick_2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>367, 144</value>
+    <value>367, 181</value>
   </data>
   <data name="thick_2.Size" type="System.Drawing.Size, System.Drawing">
     <value>96, 27</value>
@@ -588,7 +682,7 @@
     <value>Top, Right</value>
   </data>
   <data name="thick_1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>751, 146</value>
+    <value>751, 181</value>
   </data>
   <data name="thick_1.Size" type="System.Drawing.Size, System.Drawing">
     <value>96, 27</value>
@@ -1276,7 +1370,7 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>533, 181</value>
+    <value>853, 147</value>
   </data>
   <data name="labelX5.Size" type="System.Drawing.Size, System.Drawing">
     <value>72, 24</value>
@@ -1288,22 +1382,91 @@
     <value>Top, Right</value>
   </data>
   <data name="cmb_DimCategory.Location" type="System.Drawing.Point, System.Drawing">
-    <value>367, 180</value>
+    <value>369, 146</value>
+  </data>
+  <data name="cmb_DimCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>478, 27</value>
   </data>
   <data name="dTP2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
+  <data name="dTP2.ButtonClear.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP2.ButtonClear.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.ButtonClear.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.ButtonCustom.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP2.ButtonCustom.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.ButtonCustom.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.ButtonCustom2.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP2.ButtonCustom2.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.ButtonCustom2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.ButtonDropDown.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP2.ButtonDropDown.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.ButtonDropDown.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.ButtonFreeText.DisplayPosition" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="dTP2.ButtonFreeText.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.ButtonFreeText.Text" xml:space="preserve">
+    <value />
+  </data>
   <data name="dTP2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>679, 180</value>
+    <value>369, 214</value>
   </data>
   <data name="dTP2.MonthCalendar.AnnuallyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP2.MonthCalendar.Category" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.MonthCalendar.CommandParameter" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.MonthCalendar.DayNames" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="dTP2.MonthCalendar.Description" xml:space="preserve">
+    <value />
   </data>
   <data name="dTP2.MonthCalendar.MarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
   </data>
   <data name="dTP2.MonthCalendar.MonthlyMarkedDates" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAPAQAAAAAAAAANCw==</value>
+  </data>
+  <data name="dTP2.MonthCalendar.Tag" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.MonthCalendar.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="dTP2.MonthCalendar.Tooltip" xml:space="preserve">
+    <value />
   </data>
   <data name="dTP2.MonthCalendar.WeeklyMarkedDays" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAAAAAAAAMQU3lzdGVtLkRheU9mV2Vlaws=</value>
@@ -1312,13 +1475,13 @@
     <value>Top, Right</value>
   </data>
   <data name="labelX4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>855, 181</value>
+    <value>545, 215</value>
   </data>
   <data name="labelX4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 24</value>
+    <value>70, 24</value>
   </data>
   <data name="labelX4.Text" xml:space="preserve">
-    <value>التاريخ</value>
+    <value>الي تاريخ</value>
   </data>
   <data name="panelEx1.Size" type="System.Drawing.Size, System.Drawing">
     <value>990, 461</value>
@@ -1335,7 +1498,6 @@
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
