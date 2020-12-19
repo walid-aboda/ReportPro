@@ -661,9 +661,46 @@ namespace Report_Pro.RPT
             }
               RPT.S_P_by_Items rpt = new RPT.S_P_by_Items();
 
-            rpt.SetDataSource(dal.getDataTabl(@"sales_by_item_", dTP1.Value.Date, dTP2.Value.Date, pay_code, Convert.ToString(category.SelectedValue), T1, T2, Convert.ToString(cmb_DimCategory.SelectedValue), "xp",UC_Branch.ID.Text,Uc_Acc.ID.Text,db1, Uc_Group.ID.Text));
+            DataTable dt_ = dal.getDataTabl_1(@"SELECT d.ITEM_NO,s.descr
+                ,sum(D.QTY_ADD - D.QTY_TAKE) as Qty
+                ,ROUND(sum((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price) - sum(((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price * D.total_disc) / 100), 2) AS Value
+                ,sum(D.TAX_IN) - sum(D.TAX_OUT) As Vat
+                ,sum((D.QTY_ADD - D.QTY_TAKE) * s.Weight) as Weight
+
+                FROM wh_inv_data as A
+                INNER JOIN payer2 As P ON A.Acc_no = P.ACC_NO AND A.Acc_Branch_code = P.BRANCH_code
+                INNER JOIN wh_BRANCHES As B ON A.Branch_code = B.Branch_code
+                INNER JOIN wh_Payment_type As C ON A.Payment_Type = C.Payment_type
+                INNER JOIN wh_material_transaction As D ON A.Ser_no = D.SER_NO
+                AND A.Branch_code = D.Branch_code AND A.Transaction_code = D.TRANSACTION_CODE AND A.Cyear = D.Cyear
+                inner join WH_INV_TYPE As T  on T.INV_CODE = A.Transaction_code
+                inner join wh_main_master As S  on D.ITEM_NO = s.item_no
+               
+                where D.TRANSACTION_CODE like 'xp%'
+                and cast(D.G_date as date) between '"+ dTP1.Value.ToString("yyyy-MM-dd")+ "' and '" + dTP2.Value.ToString("yyyy-MM-dd") + "'" +
+                "and A.Payment_Type like '"+pay_code+"%' " +
+                "and s.Category like '"+Convert.ToString(category.SelectedValue)+"%' " +
+                "and isnull(S.UnitDepth,0) BETWEEN '"+T1+"' AND '"+T2+"' " +
+                "and S.Dim_category like '"+ Convert.ToString(cmb_DimCategory.SelectedValue)+"%' " +
+                "and A.Branch_code like '"+ UC_Branch.ID.Text+"%' " +
+                "and A.acc_no like '"+ Uc_Acc.ID.Text + "%' " +
+                "and S.group_code like '"+ Uc_Group.ID.Text+ "%' " +
+                "and A.LC_ACC_NO like '"+ Lc_Acc.ID.Text +"%' " +
+                "group by d.ITEM_NO, s.descr");
+
+            //rpt.SetDataSource(dal.getDataTabl(@"sales_by_item_", dTP1.Value.Date, dTP2.Value.Date, pay_code, Convert.ToString(category.SelectedValue), T1, T2, Convert.ToString(cmb_DimCategory.SelectedValue), "xp",UC_Branch.ID.Text,Uc_Acc.ID.Text,db1, Uc_Group.ID.Text,Lc_Acc.ID.Text));
+            rpt.SetDataSource(dt_);
             crystalReportViewer1.ReportSource = rpt;
-         
+
+            rpt.DataDefinition.FormulaFields["From_date"].Text = "'" + dTP1.Value.ToString("yyyy/MM/dd") + "'";
+            rpt.DataDefinition.FormulaFields["To_Date"].Text = "'" + dTP2.Value.ToString("yyyy/MM/dd") + "'";
+            rpt.DataDefinition.FormulaFields["Type_"].Text = "'اجمالي المشتريات بالاصناف'";
+            rpt.DataDefinition.FormulaFields["Acc_"].Text = "'" + Uc_Acc.ID.Text + " - '+'" + Uc_Acc.Desc.Text + "'";
+            rpt.DataDefinition.FormulaFields["Lc_"].Text = " '" + Lc_Acc.ID.Text + " - '+'" + Lc_Acc.Desc.Text + "'";
+
+            rpt.DataDefinition.FormulaFields["Branch_"].Text = "'" + UC_Branch.Desc.Text + "'";
+            rpt.DataDefinition.FormulaFields["Payment_"].Text = "'" + payment_type.Text + "'";
+
         }
 
       
@@ -1057,6 +1094,44 @@ namespace Report_Pro.RPT
             //this.skinEngine1.SkinFile = "Skins/Eighteen.ssk";
        
     }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            groupBox1.Visible = false;
+            RPT.rpt_purchase rpt = new RPT.rpt_purchase();
+            //  DataTable dt_ =dal.getDataTabl("Get_local_purchase_", FromDate.Value.Date, ToDate.Value.Date, P_Kind,UC_Acc.ID.Text,UC_Branch.ID.Text,UC_PayType.ID.Text,KM_Value,dal.db1);
+
+            DataTable dt_ = dal.getDataTabl_1(@"SELECT A.Ser_no,B.branch_name,A.G_date,p.PAYER_NAME,sum(D.QTY_ADD-D.QTY_TAKE) As Qty_Add
+        , ROUND(sum((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price) - sum(((D.QTY_ADD - D.QTY_TAKE) * D.Local_Price * D.total_disc) / 100), 2) AS Value
+        , sum(D.TAX_IN) - sum(D.TAX_OUT) As Vat, A.Inv_no, A.Inv_date, p.COSTMER_K_M_NO, A.Transaction_code, A.Branch_code,
+        A.Payment_Type, T.INV_NAME, A.acc_serial_no, p.payer_l_name, C.Payment_name, A.Acc_no
+
+        FROM    wh_inv_data as A
+        INNER JOIN payer2 As P ON A.Acc_no = P.ACC_NO AND A.Acc_Branch_code = P.BRANCH_code
+        INNER JOIN wh_BRANCHES As B ON A.Branch_code = B.Branch_code
+        INNER JOIN wh_Payment_type As C ON A.Payment_Type = C.Payment_type
+        INNER JOIN wh_material_transaction As D ON A.Ser_no = D.SER_NO
+        AND A.Branch_code = D.Branch_code AND A.Transaction_code = D.TRANSACTION_CODE AND A.Cyear = D.Cyear
+        inner join WH_INV_TYPE As T  on T.INV_CODE = A.Transaction_code
+        
+        WHERE A.Transaction_code like 'xp%'
+        and CAST(A.G_date AS DATE) between '" + dTP1.Value.ToString("yyyy/MM/dd") + "' AND '"+dTP2.Value.ToString("yyyy/MM/dd")+"' and a.Acc_no like '"+Uc_Acc.ID.Text+"%' " +
+        "and a.Branch_code like '"+UC_Branch.ID.Text+"%' and a.Payment_Type like '"+Convert.ToString(payment_type.SelectedValue)+ "%' and A.LC_ACC_NO like '"+Lc_Acc.ID.Text+"%' " +
+        "group by   A.Ser_no,B.branch_name,A.G_date,p.PAYER_NAME, A.Inv_no, A.Inv_date, p.COSTMER_K_M_NO, A.Transaction_code, A.Branch_code," +
+        " A.Payment_Type, T.INV_NAME, A.acc_serial_no, p.payer_l_name, C.Payment_name, A.Acc_no order by a.Branch_code, A.Ser_no");
+
+            rpt.SetDataSource(dt_);
+            crystalReportViewer1.ReportSource = rpt;
+            rpt.DataDefinition.FormulaFields["From_date"].Text = "'" + dTP1.Value.ToString("yyyy/MM/dd") + "'";
+            rpt.DataDefinition.FormulaFields["To_Date"].Text = "'" + dTP2.Value.ToString("yyyy/MM/dd") + "'";
+            rpt.DataDefinition.FormulaFields["Type_"].Text = "'اجمالي المشتريات بالفواتير'";
+            rpt.DataDefinition.FormulaFields["Acc_"].Text = "'" + Uc_Acc.ID.Text + " - '+'" + Uc_Acc.Desc.Text + "'";
+            rpt.DataDefinition.FormulaFields["Lc_"].Text = " '" + Lc_Acc.ID.Text + " - '+'" + Lc_Acc.Desc.Text + "'";
+
+            rpt.DataDefinition.FormulaFields["Branch_"].Text = "'" + UC_Branch.Desc.Text + "'";
+            rpt.DataDefinition.FormulaFields["Payment_"].Text = "'" + payment_type.Text + "'";
+            
+        }
     }
 }
 

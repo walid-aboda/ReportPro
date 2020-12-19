@@ -89,10 +89,10 @@ namespace Report_Pro.PL
             form.TopLevel = false;
            
             this.panel2.Controls.Add(form);
-            //this.panel2.Dock = DockStyle.Fill;
-            //form.Dock = DockStyle.Fill;
+            this.panel2.Dock = DockStyle.Fill;
+            form.Dock = DockStyle.Fill;
 
-            ////form.MdiParent = this;
+            //form.MdiParent = this;
             form.WindowState = frmstate;
             form.Show();
             form.BringToFront();

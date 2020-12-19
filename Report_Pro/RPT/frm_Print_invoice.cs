@@ -215,15 +215,35 @@ namespace Report_Pro.RPT
 
 
         private void getSalesInv(string ser_, string branch_, string transaction_, string cyear_)
-        { dt_inv = this.dal.getDataTabl_1("select a.*, b.*, round(b.total_disc*B.local_price*QTY_TAKE/100,2) as disc_ ,p.PAYER_NAME,p.payer_l_name,p2.PAYER_NAME as lc_name ,p2.payer_l_name as lc_L_Name,m.descr,m.Descr_eng,\r\n             br.branch_name,BR.WH_E_NAME,PT.Payment_name\r\n            from wh_inv_data As A inner join wh_material_transaction As B\r\n            on a.Ser_no = b.SER_NO and a.Cyear = b.Cyear and a.Transaction_code = b.TRANSACTION_CODE and a.Branch_code = b.Branch_code\r\n            inner join payer2 As P on a.Acc_no = p.ACC_NO and a.Acc_Branch_code = p.BRANCH_code\r\n            left join(select* from payer2)as p2 on p2.ACC_NO = a.LC_ACC_NO and a.Acc_Branch_code = p2.BRANCH_code\r\n            inner join wh_main_master as M on M.item_no = b.ITEM_NO\r\n            inner join wh_BRANCHES As BR on BR.Branch_code = a.Branch_code\r\n            inner join wh_Payment_type as PT on A.Payment_Type=PT.Payment_type\r\n           where a.SER_NO = '" + ser_ + "' and a.Transaction_code = '" + transaction_ + "' and a.Branch_code = '" + branch_ + "' and a.Cyear = '" + cyear_ + "'"); }
 
-        private void getDelevry(string ser_)
+        { dt_inv = this.dal.getDataTabl_1(@"select A.ser_no,A.Branch_code,A.Cyear,A.Transaction_code,A.G_date,A.Acc_no,A.Payment_Type,A.Sales_man_Id,A.Inv_no,A.Inv_date,a.Inv_Notes,A.Phone,A.Adress,
+                 B.ITEM_NO,B.QTY_ADD,B.QTY_TAKE,B.Unit,B.Local_Price,isnull(B.TAX_IN,0)as TAX_IN ,isnull(B.TAX_OUT,0)as TAX_OUT , round(b.total_disc*B.local_price*QTY_TAKE/100,2) as disc_ ,p.PAYER_NAME,p.payer_l_name,p2.PAYER_NAME as lc_name ,p2.payer_l_name as lc_L_Name,
+                 m.descr,m.Descr_eng, br.branch_name,BR.WH_E_NAME,PT.Payment_name 
+	  ,(select case when B.K_M_TYPE_ITEMS =1 and CAST(B.G_DATE as date ) between '2018-01-01' and '2020-06-30'   then 5  when B.K_M_TYPE_ITEMS =1 and CAST(B.G_DATE as date ) > '2020-06-30' then 15  else 0 end)as VatRatio
+       
+from wh_inv_data As A 
+        inner join wh_material_transaction As B on a.Ser_no = b.SER_NO and a.Cyear = b.Cyear and a.Transaction_code = b.TRANSACTION_CODE and a.Branch_code = b.Branch_code 
+        inner join payer2 As P on a.Acc_no = p.ACC_NO and a.Acc_Branch_code = p.BRANCH_code 
+        left join(select* from payer2)as p2 on p2.ACC_NO = a.LC_ACC_NO and a.Acc_Branch_code = p2.BRANCH_code 
+        inner join wh_main_master as M on M.item_no = b.ITEM_NO 
+        inner join wh_BRANCHES As BR on BR.Branch_code = a.Branch_code 
+        inner join wh_Payment_type as PT on A.Payment_Type=PT.Payment_type 
+                 where a.SER_NO = '" + ser_ + "' and a.Transaction_code = '" + transaction_ + "' and a.Branch_code = '" + branch_ + "' and a.Cyear = '" + cyear_ + "'"); }
+        //{ dt_inv = this.dal.getDataTabl_1("select a.*, b.*, round(b.total_disc*B.local_price*QTY_TAKE/100,2) as disc_ ,p.PAYER_NAME,p.payer_l_name,p2.PAYER_NAME as lc_name ,p2.payer_l_name as lc_L_Name,m.descr,m.Descr_eng,\r\n             br.branch_name,BR.WH_E_NAME,PT.Payment_name\r\n            from wh_inv_data As A inner join wh_material_transaction As B\r\n            on a.Ser_no = b.SER_NO and a.Cyear = b.Cyear and a.Transaction_code = b.TRANSACTION_CODE and a.Branch_code = b.Branch_code\r\n            inner join payer2 As P on a.Acc_no = p.ACC_NO and a.Acc_Branch_code = p.BRANCH_code\r\n            left join(select* from payer2)as p2 on p2.ACC_NO = a.LC_ACC_NO and a.Acc_Branch_code = p2.BRANCH_code\r\n            inner join wh_main_master as M on M.item_no = b.ITEM_NO\r\n            inner join wh_BRANCHES As BR on BR.Branch_code = a.Branch_code\r\n            inner join wh_Payment_type as PT on A.Payment_Type=PT.Payment_type\r\n           where a.SER_NO = '" + ser_ + "' and a.Transaction_code = '" + transaction_ + "' and a.Branch_code = '" + branch_ + "' and a.Cyear = '" + cyear_ + "'"); }
+
+    private void getDelevry(string ser_)
         {
             this.dt_inv = this.dal.getDataTabl_1("select a.*, b.*, round(b.total_disc*B.local_price*QTY_TAKE/100,2) as disc_ ,p.PAYER_NAME,p.payer_l_name,p2.PAYER_NAME as lc_name ,p2.payer_l_name as lc_L_Name,m.descr,m.Descr_eng,\r\n             br.branch_name,BR.WH_E_NAME,PT.Payment_name\r\n            from production.dbo.wh_inv_data As A inner join production.dbo.wh_material_transaction As B\r\n            on a.Ser_no = b.SER_NO and a.Cyear = b.Cyear and a.Transaction_code = b.TRANSACTION_CODE and a.Branch_code = b.Branch_code\r\n            inner join production.dbo.payer2 As P on a.Acc_no = p.ACC_NO and a.Acc_Branch_code = p.BRANCH_code\r\n            left join(select* from production.dbo.payer2)as p2 on p2.ACC_NO = a.LC_ACC_NO and a.Acc_Branch_code = p2.BRANCH_code\r\n            inner join production.dbo.wh_main_master as M on M.item_no = b.ITEM_NO\r\n            inner join production.dbo.wh_BRANCHES As BR on BR.Branch_code = a.Branch_code\r\n            inner join production.dbo.wh_Payment_type as PT on A.Payment_Type=PT.Payment_type\r\n           where a.SER_NO = '" + ser_ + "' and a.Transaction_code = 'XSD' and a.Branch_code = 'A1113' and a.Cyear = '20'");
         }
 
         private void getInvoiceTotal(string ser_, string branch_, string transaction_, string cyear_)
-        { this.dt_inv_total = this.dal.getDataTabl_1("select round(sum(b.QTY_TAKE*Local_Price),2) as TotalValue,round(sum(b.total_disc*B.local_price*QTY_TAKE/100),2) as discount,round(sum(b.TAX_OUT),2) as tax,round(sum(b.QTY_TAKE*Local_Price),2)-round(sum(b.total_disc*B.local_price*QTY_TAKE/100),2)+round(sum(b.TAX_OUT),2) as NetValue ,round(sum(b.QTY_ADD*Local_Price),2)-round(sum(b.total_disc*B.local_price*QTY_ADD/100),2)+round(sum(b.TAX_IN),2) as NetValuePurch from wh_material_transaction as b   \r\n            where b.SER_NO = '" + ser_ + "'  and b.Transaction_code = '" + transaction_ + "' and b.Branch_code = '" + branch_ + "' and b.Cyear = '" + cyear_ + "'  group by TRANSACTION_CODE,Branch_code,Cyear,SER_NO"); }
+        { this.dt_inv_total = this.dal.getDataTabl_1(@"select round(sum(b.QTY_TAKE*Local_Price),2) as TotalValue
+            , round(sum(b.total_disc * B.local_price * QTY_TAKE / 100), 2) as discount
+            , round(sum(isnull(b.TAX_OUT, 0)), 2) as tax
+            , round(sum(b.QTY_TAKE * Local_Price), 2) - round(sum(b.total_disc * B.local_price * QTY_TAKE / 100), 2) + round(sum(isnull(b.TAX_OUT, 0)), 2) as NetValue
+            , round(sum(b.QTY_ADD * Local_Price), 2) - round(sum(b.total_disc * B.local_price * QTY_ADD / 100), 2) + round(sum(isnull(b.TAX_IN, 0)), 2) as NetValuePurch from wh_material_transaction as b
+            where b.SER_NO = '" + ser_ + "'  and b.Transaction_code = '" + transaction_ + "' and b.Branch_code = '" + branch_ + "' and b.Cyear = '" + cyear_ + "'  " +
+            "group by TRANSACTION_CODE,Branch_code,Cyear,SER_NO"); }
 
 
 

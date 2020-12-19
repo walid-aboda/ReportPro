@@ -50,6 +50,8 @@
             this.button9 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.Lc_Acc = new Report_Pro.MyControls.UC_Acc();
             this.label10 = new System.Windows.Forms.Label();
             this.Uc_Group = new Report_Pro.MyControls.Uc_Group();
             this.label9 = new System.Windows.Forms.Label();
@@ -61,6 +63,7 @@
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.btn_purchase_byACC = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.thick_2)).BeginInit();
@@ -241,6 +244,8 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.label11);
+            this.groupBox1.Controls.Add(this.Lc_Acc);
             this.groupBox1.Controls.Add(this.label10);
             this.groupBox1.Controls.Add(this.Uc_Group);
             this.groupBox1.Controls.Add(this.label9);
@@ -266,6 +271,20 @@
             this.groupBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
+            // 
+            // label11
+            // 
+            resources.ApplyResources(this.label11, "label11");
+            this.label11.BackColor = System.Drawing.Color.Transparent;
+            this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label11.Name = "label11";
+            // 
+            // Lc_Acc
+            // 
+            resources.ApplyResources(this.Lc_Acc, "Lc_Acc");
+            this.Lc_Acc.BackColor = System.Drawing.Color.Transparent;
+            this.Lc_Acc.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.Lc_Acc.Name = "Lc_Acc";
             // 
             // label10
             // 
@@ -333,6 +352,7 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.button1);
             this.groupBox3.Controls.Add(this.btn_purchase_byACC);
             this.groupBox3.Controls.Add(this.button14);
             this.groupBox3.Controls.Add(this.button6);
@@ -366,6 +386,16 @@
             this.button14.Name = "button14";
             this.button14.UseVisualStyleBackColor = false;
             this.button14.Click += new System.EventHandler(this.button14_Click);
+            // 
+            // button1
+            // 
+            resources.ApplyResources(this.button1, "button1");
+            this.button1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.ForeColor = System.Drawing.SystemColors.Window;
+            this.button1.Name = "button1";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // frm_rpt_Purchases
             // 
@@ -420,5 +450,8 @@
         private System.Windows.Forms.Button btn_purchase_byACC;
         private System.Windows.Forms.Label label10;
         private MyControls.Uc_Group Uc_Group;
+        private System.Windows.Forms.Label label11;
+        private MyControls.UC_Acc Lc_Acc;
+        private System.Windows.Forms.Button button1;
     }
 }
