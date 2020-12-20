@@ -43,6 +43,7 @@
             this.txtYear = new DevComponents.Editors.IntegerInput();
             this.Transaction = new Report_Pro.MyControls.UC_Transaction();
             this.Branch = new Report_Pro.MyControls.UC_Branch();
+            this.buttonX3 = new DevComponents.DotNetBar.ButtonX();
             this.groupPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtYear)).BeginInit();
             this.SuspendLayout();
@@ -52,6 +53,7 @@
             resources.ApplyResources(this.groupPanel1, "groupPanel1");
             this.groupPanel1.CanvasColor = System.Drawing.SystemColors.Control;
             this.groupPanel1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
+            this.groupPanel1.Controls.Add(this.buttonX3);
             this.groupPanel1.Controls.Add(this.buttonX2);
             this.groupPanel1.Controls.Add(this.buttonX1);
             this.groupPanel1.Controls.Add(this.labelX6);
@@ -222,6 +224,16 @@
             this.Branch.Cursor = System.Windows.Forms.Cursors.Default;
             this.Branch.Name = "Branch";
             // 
+            // buttonX3
+            // 
+            resources.ApplyResources(this.buttonX3, "buttonX3");
+            this.buttonX3.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.buttonX3.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.buttonX3.Image = global::Report_Pro.Properties.Resources.printer_icon;
+            this.buttonX3.ImagePosition = DevComponents.DotNetBar.eImagePosition.Top;
+            this.buttonX3.Name = "buttonX3";
+            this.buttonX3.Click += new System.EventHandler(this.buttonX3_Click);
+            // 
             // frm_Print_invoice
             // 
             resources.ApplyResources(this, "$this");
@@ -252,5 +264,6 @@
         private DevComponents.DotNetBar.LabelX labelX6;
         private DevComponents.DotNetBar.ButtonX buttonX2;
         private DevComponents.DotNetBar.ButtonX buttonX1;
+        private DevComponents.DotNetBar.ButtonX buttonX3;
     }
 }

@@ -245,7 +245,41 @@ from wh_inv_data As A
             where b.SER_NO = '" + ser_ + "'  and b.Transaction_code = '" + transaction_ + "' and b.Branch_code = '" + branch_ + "' and b.Cyear = '" + cyear_ + "'  " +
             "group by TRANSACTION_CODE,Branch_code,Cyear,SER_NO"); }
 
+        private void buttonX3_Click(object sender, EventArgs e)
+        {
+            Rpt_inv rptInv = new Rpt_inv();
+            DataSet dataSet = new DataSet();
+            DataTable dt_ = dal.getDataTabl_1(@"SELECT A.Ser_no,A.Branch_code,A.cyear,A.Transaction_code,A.G_date
+                ,A.Acc_no,A.Payment_Type,A.Sales_man_Id,A.Inv_no,A.Inv_date,A.Inv_Notes
+                ,A.Phone,A.Adress,c.ITEM_NO,c.QTY_ADD,C.QTY_TAKE,M.Unit,c.Local_Price
+                ,c.TAX_IN,C.TAX_OUT, round(C.total_disc*C.local_price*QTY_TAKE/100,2) as disc_
+                ,PAYER_NAME,payer_l_name,M.descr,M.Descr_eng,br.branch_name,BR.WH_E_NAME
+                ,PT.Payment_name,Expited_Deleviry_date,Deleviry_date
+				
+                FROM wh_inv_data_MAINT as A
+                inner join payer2 as B on A.Acc_no=B.ACC_NO and a.Branch_code=b.BRANCH_code
+                inner join wh_MATERIAL_TRANSACTION_MAINT as C
+                on A.Ser_no=c.SER_NO and a.Transaction_code=c.TRANSACTION_CODE and a.Branch_code=c.Branch_code and A.Cyear=C.Cyear
+                inner join wh_main_master As M on C.ITEM_NO=M.item_no
+                inner join wh_BRANCHES As BR on BR.Branch_code = a.Branch_code 
+                inner join wh_Payment_type as PT on A.Payment_Type=PT.Payment_type 
+                where A.SER_NO=19414 ");
 
 
+           // getSalesInv(int32.ToString(), Branch.ID.Text, Transaction.ID.Text, (txtYear.Value - 2000).ToString());
+            dataSet.Tables.Add(dt_);
+            dataSet.WriteXmlSchema("schema_rpt.xml");
+            rptInv.SetDataSource(dataSet);
+            rptInv.DataDefinition.FormulaFields["Branch_"].Text = "'" + Branch.ID.Text + " - " + Branch.Desc.Text + "'";
+            //getInvoiceTotal(int32.ToString(), Branch.ID.Text, Transaction.ID.Text, (txtYear.Value - 2000).ToString());
+            //ToWord toWord = new ToWord(Math.Abs(Convert.ToDecimal(dt_inv_total.Rows[0]["NetValue"].ToString())), currencies[currencyNo]);
+            //rptInv.DataDefinition.FormulaFields["NuToText_A"].Text = "'" + toWord.ConvertToArabic().ToString() + "'";
+            rptInv.PrintOptions.PrinterName = Properties.Settings.Default.Invoice_P;
+
+            rptInv.PrintToPrinter(1, false, 0, 0);
+            rptInv.Close();
+            rptInv.Dispose();
+
+        }
     }
 }
