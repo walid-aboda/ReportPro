@@ -191,7 +191,7 @@ namespace Report_Pro.PL
 
         private void M716_Click(object sender, EventArgs e)
         {
-            openForm((Form)new RPT.frm_rep_Fees(), FormWindowState.Maximized, 0);
+            openForm(new RPT.frm_rep_Fees(), FormWindowState.Maximized, 0);
         }
 
         private void M26_Click(object sender, EventArgs e)
@@ -1224,6 +1224,11 @@ namespace Report_Pro.PL
         private void M56_Click(object sender, EventArgs e)
         {
            
+        }
+
+        private void M87_Click(object sender, EventArgs e)
+        {
+           openForm(new PL.frm_PreformaInvoice(), FormWindowState.Maximized, 0);
         }
     }
 }

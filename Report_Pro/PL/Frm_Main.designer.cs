@@ -77,6 +77,7 @@
             this.M53 = new DevComponents.DotNetBar.ButtonItem();
             this.M54 = new DevComponents.DotNetBar.ButtonItem();
             this.M55 = new DevComponents.DotNetBar.ButtonItem();
+            this.M56 = new DevComponents.DotNetBar.ButtonItem();
             this.M6 = new DevComponents.DotNetBar.ButtonItem();
             this.M61 = new DevComponents.DotNetBar.ButtonItem();
             this.M62 = new DevComponents.DotNetBar.ButtonItem();
@@ -140,7 +141,7 @@
             this.btnChangeAccBranch = new DevComponents.DotNetBar.ButtonX();
             this.vScrollBarAdv1 = new DevComponents.DotNetBar.VScrollBarAdv();
             this.imageList2 = new System.Windows.Forms.ImageList(this.components);
-            this.M56 = new DevComponents.DotNetBar.ButtonItem();
+            this.M87 = new DevComponents.DotNetBar.ButtonItem();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -498,6 +499,12 @@
             resources.ApplyResources(this.M55, "M55");
             this.M55.Click += new System.EventHandler(this.M55_Click);
             // 
+            // M56
+            // 
+            this.M56.Name = "M56";
+            resources.ApplyResources(this.M56, "M56");
+            this.M56.Click += new System.EventHandler(this.M56_Click);
+            // 
             // M6
             // 
             this.M6.Name = "M6";
@@ -666,7 +673,8 @@
             this.M83,
             this.M84,
             this.M85,
-            this.M86});
+            this.M86,
+            this.M87});
             this.M8.SubItemsExpandWidth = 14;
             resources.ApplyResources(this.M8, "M8");
             this.M8.Click += new System.EventHandler(this.M8_Click);
@@ -969,11 +977,11 @@
             this.imageList2.Images.SetKeyName(8, "file.png");
             this.imageList2.Images.SetKeyName(9, "Maintinance.png");
             // 
-            // M56
+            // M87
             // 
-            this.M56.Name = "M56";
-            resources.ApplyResources(this.M56, "M56");
-            this.M56.Click += new System.EventHandler(this.M56_Click);
+            this.M87.Name = "M87";
+            resources.ApplyResources(this.M87, "M87");
+            this.M87.Click += new System.EventHandler(this.M87_Click);
             // 
             // Frm_Main
             // 
@@ -1120,5 +1128,6 @@
         private DevComponents.DotNetBar.ButtonItem buttonItem7;
         private DevComponents.DotNetBar.ButtonItem buttonItem8;
         private DevComponents.DotNetBar.ButtonItem M56;
+        private DevComponents.DotNetBar.ButtonItem M87;
     }
 }

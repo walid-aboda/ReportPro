@@ -31,10 +31,13 @@ namespace Report_Pro.MyControls
         {
             try
             {
-                DataTable dt_ = dal.getDataTabl_1("SELECT item_no,descr,Descr_eng FROM " + dal.db1 +".dbo.wh_main_master where item_no = '" + ID.Text + "' or factory_no= '" + ID.Text + "' ");
+                DataTable dt_ = dal.getDataTabl_1("SELECT item_no,descr,Descr_eng,isnull(Weight,0) as Weight,Unit,isnull(sale_price,0) as sale_price FROM wh_main_master where item_no = '" + ID.Text + "' or factory_no= '" + ID.Text + "' ");
                 if (ID.Text!="" && dt_.Rows.Count > 0)
                 {
                     ID.Text= dt_.Rows[0]["item_no"].ToString();
+                    itemWeight.Value = Convert.ToDouble(dt_.Rows[0]["Weight"].ToString());
+                    itemPrice.Value = Convert.ToDouble(dt_.Rows[0]["sale_price"].ToString());
+                    itemUnit.Text = dt_.Rows[0]["Unit"].ToString();
                     if (Properties.Settings.Default.lungh == "0")
                     {
                         Desc.Text = dt_.Rows[0]["descr"].ToString();

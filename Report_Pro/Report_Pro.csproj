@@ -536,6 +536,12 @@
     <Compile Include="PL\FrmLcInv.designer.cs">
       <DependentUpon>FrmLcInv.cs</DependentUpon>
     </Compile>
+    <Compile Include="PL\frm_PreformaInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frm_PreformaInvoice.designer.cs">
+      <DependentUpon>frm_PreformaInvoice.cs</DependentUpon>
+    </Compile>
     <Compile Include="PL\frmLcs.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -1161,6 +1167,14 @@
       <DependentUpon>FrmLcInv.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="PL\frm_PreformaInvoice.ar.resx">
+      <DependentUpon>frm_PreformaInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frm_PreformaInvoice.resx">
+      <DependentUpon>frm_PreformaInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="PL\frmLcs.ar.resx">
       <DependentUpon>frmLcs.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -1518,6 +1532,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\rpt_InventoryList.resx">
       <DependentUpon>rpt_InventoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\rpt_feesReport_Total.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_feesReport_Total.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="RPT\Rpt_inv.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -2300,6 +2318,12 @@
     </Compile>
     <Compile Include="Reports\rpt_InventoryList.Designer.cs">
       <DependentUpon>rpt_InventoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPT\rpt_feesReport_Total.cs">
+      <DependentUpon>rpt_feesReport_Total.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="RPT\Rpt_inv.cs">
       <AutoGen>True</AutoGen>

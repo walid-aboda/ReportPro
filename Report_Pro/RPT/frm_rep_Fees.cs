@@ -37,6 +37,7 @@ namespace Report_Pro.RPT
     private void btnReport_1_Click(object sender, EventArgs e)
     {
       this.groupPanel2.Visible = false;
+         
       rpt_feesReport rptFeesReport = new rpt_feesReport();
       DataSet1 dataSet1 = new DataSet1();
       DataTable dataTable = new DataTable();
@@ -51,11 +52,18 @@ namespace Report_Pro.RPT
       dataSet1.Tables.Add(dataTabl1);
       dataSet1.WriteXmlSchema("schema1.xml");
       rptFeesReport.SetDataSource((DataSet) dataSet1);
-      if (this.rdo1.Checked)
-        rptFeesReport.ReportDefinition.Sections["Section3"].SectionFormat.EnableSuppress = true;
-      else
-        rptFeesReport.ReportDefinition.Sections["GroupHeaderSection1"].SectionFormat.EnableSuppress = true;
-      this.crystalReportViewer1.ReportSource = (object) rptFeesReport;
+            if (rdo1.Checked)
+            {
+                
+                rptFeesReport.DataDefinition.FormulaFields["total_"].Text = "'S'";
+                rptFeesReport.ReportDefinition.Sections["Section3"].SectionFormat.EnableSuppress = true;
+            }
+            else
+            {
+                rptFeesReport.DataDefinition.FormulaFields["total_"].Text = "'T'";
+                rptFeesReport.ReportDefinition.Sections["GroupHeaderSection1"].SectionFormat.EnableSuppress = true;
+            }
+      crystalReportViewer1.ReportSource = (object) rptFeesReport;
       FormulaFieldDefinition formulaField1 = rptFeesReport.DataDefinition.FormulaFields["From_date"];
       DateTime dateTime = this.fromDate.Value;
       string str1 = "'" + dateTime.ToString("yyyy/MM/dd") + "'";
